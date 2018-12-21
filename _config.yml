@@ -1,38 +1,22 @@
-# Site settings
-title: "neaRThings"
-email: erick.ndava@gmail.com
-description: "A personal spatialIT Doodle."
-baseurl: ""
-url: ""
-title_description: "<p>Welcome. I’m a geospatial and information technology enthusiast who enjoys tinkering with software and looking at pretty pictures taken from space satellites or the coloured text of code in SublimeText; strongly biased toward thinking road lines and other shapes shown in QGIS or ArcGIS are more real than the street or football pitch out there. After the 8 to 4 day job and on weekends, I toil with FOSS4G, command lines and reading up on the trendy GI technologies or implementations."
-title_image: "https://www.gravatar.com/avatar/9128a4abe64e3d9d8529d9f456a526c4?s=500&d=mm"
-google_analytics: "UA-60884464-1"
-disqus_account: erickndava
-github_repository: https://github.com/erickndava
-# addthis_id: ra-513c6fa83da6ec67
-post_limit: 5
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:  pretty
+# relative_permalinks: true //deprecated
 
-# Social usernames/URLs
-twitter_username: erickndava
-github_username:  erickndava
-instagram_username: 
-reddit_username: 
-linkedin_link: https://za.linkedin.com/in/erick-ndava-89670716
-google_plus_link: 
-stackoverflow_link: 
-xing_link:
-facebook_link:
+# Setup
+title:  neaRThings
+tagline:  'A spatial doodle'
+description:  'neaRThings is a blog on things geo and data, the rumblings of an enthusiast.'
+url:  "https://erickndava.github.io"
+baseurl:  ""
+paginate: 5
 
-# Footer
-# footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-# footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+# About/contact
+author:
+  name: Erick Ndava
+  url:  https://twitter.com/erickndava
+  email:  erick.ndava@gmail.com
 
-# Build settings
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-permalink: pretty
-exclude: [vendor]
+# Custom vars
+version:             1.0.0
