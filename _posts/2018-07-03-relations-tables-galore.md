@@ -62,7 +62,7 @@ Make the selections as shown above. In particular ***'No Geometry'***.
 
 Opening the table in Q we see the data we just imported.
 
-<img align="center" src="/images/csv_inside_q.PNG" alt="CSV in QGIS">
+![CSV in QGIS](/images/csv_inside_q.PNG)
 
 Now let's save this to the GeoPackage.
 
