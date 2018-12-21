@@ -1,22 +1,22 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:  pretty
+# relative_permalinks: true //deprecated
 
 # Setup
-title:               neaRThings
-tagline:             'A spatial doodle'
-description:         'neaRThings is a blog on things geo and data, they're rumblings of an enthusiast - <a href="https://twitter.com/erickndava" target="_blank">@erick</a>.'
-url:                 https://erickndava.github.io
-baseurl:             ''
-paginate:            5
+title:  neaRThings
+tagline:  'A spatial doodle'
+description:  'neaRThings is a blog on things geo and data, they're rumblings of an enthusiast - <a href="https://twitter.com/erickndava" target="_blank">@erick</a>.'
+url:  https://erickndava.github.io
+baseurl:  ''
+paginate: 5
 
 # About/contact
 author:
-  name:              Erick Ndava
-  url:               https://twitter.com/erickndava
-  email:             erick.ndava@gmail.com
+  name: Erick Ndava
+  url:  https://twitter.com/erickndava
+  email:  erick.ndava@gmail.com
 
 # Custom vars
 version:             1.0.0
