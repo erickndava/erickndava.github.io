@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Portfolio
+title: Portfolio of Work
 ---
 
-## Portfolio of Work
 <p>
   This is an attempted distillation of some of the more 'interactive' work I have done. Take it as an information grazer's fix. These are largely links to the 'Results' portion of Blog Posts I have made.
 </p>
