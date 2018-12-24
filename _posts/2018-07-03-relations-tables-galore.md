@@ -56,7 +56,9 @@ To load the Text File to the geopackage we use any one of the two approaches.
 
 **2.**  Select **Add Delimited Text**. This is a large comma icon with a (+)plus sign. When you load the file, it will likely look like the screenshot below. (*Note that the image shown here is of a file that would have undergone considerable pre-processing. Especially on field names and data types in cells.*)
 
-![CSV in QGIS](https://github.com/erickndava/erickndava.github.io/blob/master/images/add_delimited_txt_file.PNG)
+<img align="center" src="/images/add_delimited_txt_file.PNG" alt="Save to GeoPackage">
+
+![CSV in QGIS](/images/add_delimited_txt_file.PNG)
 
 Make the selections as shown above. In particular ***'No Geometry'***.
 
