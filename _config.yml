@@ -10,7 +10,7 @@ tagline:  'A spatial doodle'
 description:  'neaRThings is a blog on things geo and data, the rumblings of an enthusiast.'
 url:  "https://erickndava.github.io"
 baseurl:  ""
-paginate: 5
+paginate: 1
 
 # About/contact
 author:
