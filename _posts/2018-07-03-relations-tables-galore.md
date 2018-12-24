@@ -5,6 +5,7 @@ date: 2018-07-03 16:47:50 +0200
 summary:  Data Cleaning 
 comments: true
 sharing: true
+permalink: short-urls-jekyll
 thumbnail: fa-chalkboard-teacher
 tags:
  - qgis
