@@ -5,6 +5,7 @@ date: 2018-07-03 16:47:50 +0200
 summary:  Data Cleaning 
 comments: true
 sharing: true
+categories: hands-on
 thumbnail: fa-chalkboard-teacher
 tags:
  - qgis
@@ -56,13 +57,13 @@ To load the Text File to the geopackage we use any one of the two approaches.
 
 **2.**  Select **Add Delimited Text**. This is a large comma icon with a (+)plus sign. When you load the file, it will likely look like the screenshot below. (*Note that the image shown here is of a file that would have undergone considerable pre-processing. Especially on field names and data types in cells.*)
 
-![CSV in QGIS](/images/add_delimited_txt_file.PNG)
+<img align="center" src="/images/add_delimited_txt_file.PNG" alt="Delimited Text Import in Q">
 
 Make the selections as shown above. In particular ***'No Geometry'***.
 
 Opening the table in Q we see the data we just imported.
 
-![CSV in QGIS](/images/csv_inside_q.PNG)
+<img align="center" src="/images/csv_inside_q.PNG" alt="CSV in QGIS">
 
 Now let's save this to the GeoPackage.
 
