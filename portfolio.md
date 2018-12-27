@@ -8,6 +8,7 @@ title: Portfolio of Work
 </p>
 
 ## Here Goes . . . 
+- [Hypothetical Cape Town Flood](https://erickndava.github.io/cape-cbd-dem/): A flood model to identify the 'flood-safest' spot near the Cape Town CBD.
 
 - [Dams of Cape Town](https://erickndava.github.io/dams-of-capetown/index.html): A story map of where Cape Town water comes from.
 
