@@ -20,7 +20,7 @@ tags:
 
 So, those are the numbers to keep and punch into the satellite navigator in the unlikely event of the Atlantic Ocean bursting its Cape Town shores. If you stay in Cape Town, the first place that comes to mind when you hear 'Flood Survival' is likely Table Mountain and rightly so. But, which spot exactly can one stand longest on solid earth?
 
-#####Cut To The Chase: [The Safe Strip](https://erickndava.github.io/cape-cbd-dem/)
+##### Cut To The Chase: [The Safe Strip](https://erickndava.github.io/cape-cbd-dem/)
 
 ## How To DEM
 
@@ -36,29 +36,29 @@ After extracting the compressed elevation data, I loaded it in QGIS.
 1. Load 10m_BA, 
 2. Style the 'relief map' in Properties --> Style
 
-<img align="center" src="/images/Pseudo_Coloured_DEM_Settings.png" alt="Pseudo Coloured DEM Settings">
+<img align="center" src="/images/Pseudo_Coloured_DEM_Settings.PNG" alt="Pseudo Coloured DEM Settings">
 
 The raster would then look as shown below
 
-<img align="center" src="/images/Pseudo_Coloured_DEM.png" alt="Pseudo Coloured DEM">
+<img align="center" src="/images/Pseudo_Coloured_DEM.PNG" alt="Pseudo Coloured DEM">
 
 3. Now to create a hillshade. Do Raster --> Analysis -->DEM (Terrain Models)...
 
    With the settings shown below create a Hillshade DEM
 
-<img align="center" src="/images/Hillshade_DEM_Creation_Settings.png" alt="Hillshade DEM Creation Settings">
+<img align="center" src="/images/Hillshade_DEM_Creation_Settings.PNG" alt="Hillshade DEM Creation Settings">
 
 This gives us a hillshade ...
 
-<img align="center" src="/images/Hillshade_DEM.png" alt="Hillshade DEM">
+<img align="center" src="/images/Hillshade_DEM.PNG" alt="Hillshade DEM">
 
 4. To get us a Terrain Map. Set transparency in the Relief Map (10M_BA). RightClick --> Properties --> Transparency
 
-<img align="center" src="/images/Pseudo_Coloured_DEM_Settings_Transparency.png" alt="Pseudo Coloured DEM Settings Transparency">
+<img align="center" src="/images/Pseudo_Coloured_DEM_Settings_Transparency.PNG" alt="Pseudo Coloured DEM Settings Transparency">
 
 5. Now a combined view of The Relief and Hillshade ...
 
-<img align="center" src="/images/Relief_Map_Combined_Relief_and_Hillshade.png" alt="Relief Map - Combined Relief and Hillshade">
+<img align="center" src="/images/Relief_Map_Combined_Relief_and_Hillshade.PNG" alt="Relief Map - Combined Relief and Hillshade">
 
 6. Now Load the other support vector layers
     - Metro Boundary (Flood Plane)
