@@ -58,7 +58,7 @@ This gives us a hillshade ...
 
 5. Now a combined view of The Relief and Hillshade ...
 
-<img align="center" src="/images/Relief Map Combined Relief and Hillshade.PNG" alt="Relief Map - Combined Relief and Hillshade">
+<img align="center" src="/images/Relief Map - Combined Relief and Hillshade.PNG" alt="Relief Map - Combined Relief and Hillshade">
 
 6. Now Load the other support vector layers
     - Metro Boundary (Flood Plane)
