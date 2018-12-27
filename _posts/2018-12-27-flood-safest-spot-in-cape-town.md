@@ -36,7 +36,7 @@ After extracting the compressed elevation data, I loaded it in QGIS.
 1. Load 10m_BA, 
 2. Style the 'relief map' in Properties --> Style
 
-<img align="center" src="/images/Pseudo_Coloured_DEM_Settings.PNG" alt="Pseudo Coloured DEM Settings">
+<img align="center" src="/images/Pseudo_Coloured_DEM_Settings.png" alt="Pseudo Coloured DEM Settings">
 
 The raster would then look as shown below
 
@@ -46,7 +46,7 @@ The raster would then look as shown below
 
    With the settings shown below create a Hillshade DEM
 
-<img align="center" src="/images/Hillshade_DEM_Creation_Settings.PNG" alt="Hillshade DEM Creation Settings">
+<img align="center" src="/images/Hillshade_DEM_Creation_Settings.png" alt="Hillshade DEM Creation Settings">
 
 This gives us a hillshade ...
 
@@ -58,7 +58,7 @@ This gives us a hillshade ...
 
 5. Now a combined view of The Relief and Hillshade ...
 
-<img align="center" src="/images/Relief_Map_Combined_Relief_and_Hillshade.PNG" alt="Relief Map - Combined Relief and Hillshade">
+<img align="center" src="/images/Relief_Map_Combined_Relief_and_Hillshade.png" alt="Relief Map - Combined Relief and Hillshade">
 
 6. Now Load the other support vector layers
     - Metro Boundary (Flood Plane)
