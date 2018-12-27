@@ -18,7 +18,7 @@ tags:
 
 ### (18.42281, -33.95947)
 
-So, those are the numbers to keep and punch into the satellite navigator in the unlikely event of the Atlantic Ocean bursting its Cape Town shores. If you stay in Cape Town, the first place that comes to mind when you hear 'Flood Survival' is likely Table Mountain and rightly so. But, which spot exactly can one stand longest on solid earth?
+So, those are the numbers (coordinates) to keep and punch into the satellite navigator in the unlikely event of the Atlantic Ocean bursting its Cape Town shores. If you stay in Cape Town, the first place that comes to mind when you hear 'Flood Survival' is likely Table Mountain and rightly so. But, which spot exactly can one stand longest on solid earth in the event of a massive flood?
 
 ##### Cut To The Chase: [The Safe Strip](https://erickndava.github.io/cape-cbd-dem/)
 
@@ -28,7 +28,7 @@ So, those are the numbers to keep and punch into the satellite navigator in the 
 
 Relief maps always get my attention. The mystery of attempting to model reality on the computer enthuses me. There are plenty tutorials on the net on how to do this so here's my version.
 
-I got some vector base data (Metro Boundary, Suburbs, Roads, Railway Line, Building Footprints and a DEM - Digital Elevation Model ) off City of Cape Town's [Open Data Portal](http://web1.capetown.gov.za/web1/opendataportal/Default) or [here](https://odp-cctegis.opendata.arcgis.com/). The vector data I loaded into a geopackage. [How?](https://erickndava.github.io/hands-on/2018/06/01/in-with-the-new-geopackage/) Of special interest was the DEM, described as *"Digital model (10m Grid) depicting the elevation of the geographical surface (Bare Earth Model) of the Cape Town municipal area."* The Open Data Portal has the data stored as *10m_Grid_GeoTiff.zip*.
+I got some vector base data (Metro Boundary, Suburbs, Roads, Railway Line, Building Footprints and a DEM - Digital Elevation Model ) off City of Cape Town's [Open Data Portal](http://web1.capetown.gov.za/web1/opendataportal/Default) or [here](https://odp-cctegis.opendata.arcgis.com/). The vector data, I loaded into a geopackage. [How?](https://erickndava.github.io/hands-on/2018/06/01/in-with-the-new-geopackage/) Of special interest was the DEM, described as *"Digital model (10m Grid) depicting the elevation of the geographical surface (Bare Earth Model) of the Cape Town municipal area."* The Open Data Portal has the data stored as *10m_Grid_GeoTiff.zip*.
 
 ### Style Terrain
 
@@ -71,7 +71,7 @@ This gives us a hillshade ...
 
 ### Getting 3D
 
-To get started with 3D Terrain. Load and activate the [Qgis2threejs Plugin](https://github.com/minorua/Qgis2threejs).(Read [more](https://qgis2threejs.readthedocs.io/en/docs/)). (This is one approach to getting 3D in QGIS. At the time of writing this post, 3D comes native with QGIS. Read ([more.](https://www.lutraconsulting.co.uk/blog/2018/03/01/working-with-qgis-3d-part-1/))
+To get started with 3D Terrain. Load and activate the [Qgis2threejs Plugin](https://github.com/minorua/Qgis2threejs).(Read [more](https://qgis2threejs.readthedocs.io/en/docs/)). (This is one approach to getting 3D in QGIS. At the time of writing this post, 3D comes native with QGIS. Read ([more.](https://www.lutraconsulting.co.uk/blog/2018/03/01/working-with-qgis-3d-part-1/)). But, I was using QGIS 2.18.7, Portable gotten from [here](https://portablegis.xyz/post/get/).
 
 The Qgis2threejs Plugin is unique in that it bootstraps the process to have a web ready 3D model to play with.
 
@@ -102,7 +102,7 @@ World, DEM, Roads,
 
 The Surburbs Layer is used mainly for labelling purposes in the final export. We are not interested in showing the Suburbs boundaries for now.
 
-Through Trial and Error and guided by the absolute height of the DEM,  we get the optimum height value, 1 060m, to use for our Flood Plane (Which initially is just a polygon covering all of our area of interest - Metro Boundary in this case).
+Through Trial and Error and guided by the absolute height of the DEM,  we get the optimum height value, 1 060m, to use for our Flood Plane (Which in essence is just a polygon covering all of our area of interest - Metro Boundary in this case).
 
 ### Export To Web
 
