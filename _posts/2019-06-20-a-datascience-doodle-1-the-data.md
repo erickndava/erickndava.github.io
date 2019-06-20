@@ -42,7 +42,9 @@ The Service requests data can be downloaded in Microsoft Excel format or ODS. To
 #### Data Explore
 OpenRefine(OR) can work with .ods files but, I struggled to load the January 2011 file. I even increased OpenRefine's default memory (from 1024 to 2048) setting, still there was struggle loading the file. Opening the file in LibreCalc revealed that the first four rows in the month's services request records were descriptive fields which even included merged cells. I deleted these and exported the file to text (csv) format.
 
-<img align="center" src="/images/ODS_export_to_CSV_Settings.png" alt="Export ODS to CSV">
+<p align="center">
+<img src="/images/ODS_export_to_CSV_Settings.png" alt="Export ODS to CSV"/>
+</p>
 
 After the export the file loaded like a breeze in OpenRefine.
 
