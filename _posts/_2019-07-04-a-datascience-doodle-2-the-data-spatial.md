@@ -31,7 +31,7 @@ Suburbs Data = Official Planning Suburbs + Census Small Area  + Informal Area + 
 
 The spatial data was loaded to a geopackage for further geo-processing.
 
-<p align="center"> <img src="/images/places_layers_in_geopkg.PNG" alt="Places Layers in geopkg"/> </p>
+<p align="center"> <img src="/images/places_layers_in_geopkg.png" alt="Places Layers in geopkg"/> </p>
 
 #### A Good Frame
 
@@ -64,7 +64,7 @@ For the four layers (Official Planning Suburbs +Census Small Area  + Informal Ar
 
 For this data, ran the dissolve operation in QGIS on ***census_2011_sal*** on *sal_code_s*. There were severally named polygons, which is good for population related operations but not for the current geolocation exercise.
 
-<p align="center"> <img src="/images/small_place_dissolve.PNG" alt="Dissolve_small_places"/> </p>
+<p align="center"> <img src="/images/small_place_dissolve.png" alt="Dissolve_small_places"/> </p>
 
 
 ##### 2. Official Planning Suburbs
@@ -88,7 +88,7 @@ I exported only the suburb column of the service_request_2011 data from OR and i
 
 Similarly exported the attributes of the four suburb reference layers from QGIS as csv files, imported the quartet in OR and exported the compound to csv then importing into the database. This compound had 2139 records (non-unique as some names are common across the set).
 
-<p align="center"> <img src="/images/tables_all_together.PNG" alt="SQLITE DB of suburbs"/> </p>
+<p align="center"> <img src="/images/tables_all_together.png" alt="SQLITE DB of suburbs"/> </p>
 
 >There is a knowledge gap. I clearly see there is a better way to this process. This can all be done with some sql chops.
 
