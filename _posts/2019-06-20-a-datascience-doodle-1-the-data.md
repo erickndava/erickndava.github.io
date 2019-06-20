@@ -14,10 +14,10 @@ tags:
  
 ---
 
-#### Introduction
+### Introduction
 This post is the first in a series, The Data Science Doodle, chronicling my journey deliberately, informally getting into [Data Science](https://en.wikipedia.org/wiki/Data_science). I plan to write experiences, learnings and report on projects I work on. At the writing of this post, I am working through the [R for Data Science](https://r4ds.had.co.nz/) book and 'concurrently' exploring a dataset of interest. The idea is to evaluate my thought process and workflows, see how, what I learn can be applied to *my* real world.
 
-#### The Project
+### The Project
 The [City of Cape Town](http://www.capetown.gov.za) makes some of its data publicly available on its [Open Data Portal](http://web1.capetown.gov.za/web1/opendataportal/). There's a plethora of data themes from which one can draw insights about that city from a public service perspective. My focus is on a dataset of *Service Requests*. Several questions and conclusions can be drawn by digging deeper into this data. I am to understand this data better and see how R can be used to process and manipulate it.
 
 #### A Brief on Service Requests
@@ -32,7 +32,7 @@ The City’s Call Centre can be contacted by using several channels; calls, emai
 
 *References* [1](http://www.capetown.gov.za/City-Connect/Report/Muncipal-services-and-maintenance/Submit-a-service-request/Submit%20a%20service%20request%20online), [2](http://gpokcid.co.za/2016/02/c3-notification-system-report-problems-in-your-neighbourhood/), [3](https://www.news24.com/SouthAfrica/Local/City-Vision/a-simple-guide-to-service-requests-20161109-3), [4](http://cityweb.capetown.gov.za/en/achievementsandawards/Pages/CitysInfoSystemsandTechnologyDepawardedforinnovation.aspx).
 
-#### Digging-In
+### Digging-In
 
 The Service requests data can be downloaded in Microsoft Excel format or ODS. To investigate the data I resorted to [LibreCalc](https://www.libreoffice.org/) and [OpenRefine](http://openrefine.org/) ~ a free, open source, powerful tool for working with messy data.
 
@@ -102,7 +102,7 @@ cells["work_centre"].value
 
 ```
 
-#### Messy Suburbs
+### Messy Suburbs
 
 The most time consuming stage was cleaning the names of the ***suburbs***. Why **suburb**? As a "geo" person, the mind is wired to think geocoding and suburbs is a good reference. The (x_coord, y_coord) pair for this dataset was largely unassigned which led to the focus on suburb.
 
@@ -115,7 +115,7 @@ The ***Cluster and Edit*** Operation was mostly used. The variations in the name
 <img align="center" src="/images/an_interesting_request.PNG" alt="Interesting Request">
 
 
-#### Taking Stock (A Database)
+### Taking Stock (A Database)
 
 As an intermediate stage I exported the records as SQL from OR to a sqlite database. ***cct_service_requests.sqlite3*** 
 
@@ -138,7 +138,7 @@ SELECT count(suburb) as a, suburb
 
  Having done the identification of non-unique suburbs. The task was now to identify these in OR and clean them up.
 
-#### Getting Help
+### Getting Help
 
  Somewhere along the processing I came across 'noise' in the data which gave me memory issues in OR and spreadsheet programs. This had caused the data file to balloon to 800MB+.
 
@@ -155,7 +155,7 @@ In summary the technique to clean the data was
 The problem record entry was *notification_id = 1003477951*. I deleted this and proceeded with the cleaning.
 
 
-#### Readying
+### Readying
 
 After further cleaning there were now 1100 unique suburbs with the highest count of 4.
 
@@ -163,7 +163,7 @@ The Next Stage was to match this service request data with the spatial reference
 
 At this stage one can start doing miscellaneous analysis of the 2011 service requests. Distribution per month, per suburb, most requested service, etc.
 
-#### #PostScript
+### #PostScript
 
 True to the "80% is spend in data cleaning" assertion, this portion of the project took a lot of time! Next up is the preparation of spatial data for the suburbs. Using the suburbs list from service_requests_2011, collate a corresponding spatial dataset.
 
