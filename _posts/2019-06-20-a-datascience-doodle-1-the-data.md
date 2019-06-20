@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Data Science Doodle, The Data"
+title: "A DS Doodle: 1. The Data"
 date: 2019-06-20 09:21:42 +0200
 summary:  Data Scince
 comments: true
@@ -14,10 +14,8 @@ tags:
  
 ---
 
-### A DS Doodle: 1. The Data
-
 #### Introduction
-This post is the first in a series, chronicling my journey deliberately, informally getting into [Data Science](https://en.wikipedia.org/wiki/Data_science). I plan to write experiences, learnings and report on projects I work on. At the writing of this post, I am working through the [R for Data Science](https://r4ds.had.co.nz/) book and 'concurrently' exploring a dataset of interest. The idea is to evaluate my thought process and workflows, see how, what I learn can be applied to *my* real world.
+This post is the first in a series, The Data Science Doodle, chronicling my journey deliberately, informally getting into [Data Science](https://en.wikipedia.org/wiki/Data_science). I plan to write experiences, learnings and report on projects I work on. At the writing of this post, I am working through the [R for Data Science](https://r4ds.had.co.nz/) book and 'concurrently' exploring a dataset of interest. The idea is to evaluate my thought process and workflows, see how, what I learn can be applied to *my* real world.
 
 #### The Project
 The [City of Cape Town](http://www.capetown.gov.za) makes some of its data publicly available on its [Open Data Portal](http://web1.capetown.gov.za/web1/opendataportal/). There's a plethora of data themes from which one can draw insights about that city from a public service perspective. My focus is on a dataset of *Service Requests*. Several questions and conclusions can be drawn by digging deeper into this data. I am to understand this data better and see how R can be used to process and manipulate it.
