@@ -52,7 +52,9 @@ After the export the file loaded like a breeze in OpenRefine.
 
 I repeated the .ods file cleaning procedure in LibreCalc for all the remaining files February to December 2011. I then imported all 12 csv files into OpenRefine. Again memory was an issue and I increase the value to 4096.
 
-<img align="center" src="/images/memory_issues_12_files.PNG" alt="Memory problems">
+<p align="center">
+<img src="/images/memory_issues_12_files.PNG" alt="Memory problems"/>
+</p>
 
 #### Cleaning Up
 
@@ -108,13 +110,18 @@ cells["work_centre"].value
 
 The most time consuming stage was cleaning the names of the ***suburbs***. Why **suburb**? As a "geo" person, the mind is wired to think geocoding and suburbs is a good reference. The (x_coord, y_coord) pair for this dataset was largely unassigned which led to the focus on suburb.
 
-<img align="center" src="/images/Cluster_and_edit.png" alt="Cluster and Edit">
+<p align="center">
+<img src="/images/Cluster_and_edit.png" alt="Cluster and Edit"/>
+</p>
 
 The ***Cluster and Edit*** Operation was mostly used. The variations in the names  was very wide. Hinting to a lack of standardisation on the names and most likely alluding to the use of 'free-text' in the initial capture of the Service Requests.
 
  Some records had suburb value 'UNASSIGNED'. For suburbs which did not 'make sense' in a local context, like London, UK, I assigned INVALID.
 
-<img align="center" src="/images/an_interesting_request.PNG" alt="Interesting Request">
+
+<p align="center">
+<img src="/images/an_interesting_request.PNG" alt="Interesting Request"/>
+</p>
 
 
 ### Taking Stock (A Database)
@@ -125,7 +132,10 @@ As an intermediate stage I exported the records as SQL from OR to a sqlite datab
 
 Exporting the records to SQL from OR resulted in Out of Memory issues even with 6GB dedicated to OR and the data with 906501 records. I resorted to importing a CSV instead.
 
-<img align="center" src="/images/Import_CSV_from_OR_into_sqlite_1.PNG" alt="Import from OR to SQLite">
+<p align="center">
+<img src="/images/Import_CSV_from_OR_into_sqlite_1.PNG" alt="Import from OR to SQLite"/>
+</p>
+
 
 I was looking at retaining suburbs with atleast 5 or more records or less if there was a corresponding suburb defined. Those with any less were assigned to the larger area boundary. To get insight into the suburbs I used the SQL Query 
 
@@ -144,11 +154,15 @@ SELECT count(suburb) as a, suburb
 
  Somewhere along the processing I came across 'noise' in the data which gave me memory issues in OR and spreadsheet programs. This had caused the data file to balloon to 800MB+.
 
-<img align="center" src="/images/Noise_in_data.PNG" alt="Noise in Data">
+<p align="center">
+<img src="/images/Noise_in_data.PNG" alt="Noise in Data"/>
+</p>
 
 I resorted to twitter for help 
 
-<img align="center" src="/images/eliminate_data_noise.PNG" alt="Eliminae Data Noise">
+<p align="center">
+<img src="/images/eliminate_data_noise.PNG" alt="Eliminae Data Noise"/>
+</p>
 
 In summary the technique to clean the data was 
 
