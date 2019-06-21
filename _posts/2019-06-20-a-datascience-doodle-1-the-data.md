@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "1. The Data
-A DS Doodle"
+title: "1. The Data"
 date: 2019-06-20 09:21:42 +0200
 summary:  Data Science
 comments: true
@@ -14,7 +13,7 @@ tags:
  - qgis
  
 ---
-
+#######A Data Science Doodle"
 ### Introduction
 This post is the first in a series, The Data Science Doodle, chronicling my journey deliberately, informally getting into [Data Science](https://en.wikipedia.org/wiki/Data_science). I plan to write experiences, learnings and report on projects I work on. At the writing of this post, I am working through the [R for Data Science](https://r4ds.had.co.nz/) book and 'concurrently' exploring a dataset of interest. The idea is to evaluate my thought process and workflows, see how, what I learn can be applied to *my* real world.
 
