@@ -129,10 +129,7 @@ for all the four layers. Turns out the geometry is valid as no feature(s) was re
 
 #### What's In A Place
 
-This exercise has a local context and it makes sense when dealing with the geo data to think about projections. I resorted to re-projecting the data to a local reference system, which is quite unique - South African CRS : HBK_NO_19. (*You can get more about this projection from [here]() and [here]()* ).
-
-Re-projected the suburbs data from the Geographic CRS to a Projected CRS and stored this in a geopackage.
-
+This exercise has a local context and it makes sense when dealing with the geo data to think about projections. The most appropriate being South African CRS ZANGI:ZANGI:HBKNO19. I however postponed that for a later date and just went with EPSG 4326 instead. (* More on the HBKN019 can be gotten from [here](https://gist.github.com/gubuntu/6403425)* and [here](http://osgeo-org.1560.x6.nabble.com/QGIS-ZA-user-Coordinates-along-the-map-border-td5382650i20.html) ).
 
 #### #PostScript
 
