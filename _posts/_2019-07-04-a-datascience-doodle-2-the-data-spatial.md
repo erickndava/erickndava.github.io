@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A DS Doodle: 2. The Data - Spatial"
+title: "2. The Data - Spatial"
 date: 2019-07-04 07:07:42 +0200
 summary:  Data Science
 comments: true
@@ -13,6 +13,7 @@ tags:
  - qgis
  
 ---
+###### [A Data Science Doodle]
 ### Defining Geography
 
 #### One Area, Many Versions
