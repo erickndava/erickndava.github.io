@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "A DS Doodle: 1. The Data"
+title: "1. The Data
+A DS Doodle"
 date: 2019-06-20 09:21:42 +0200
-summary:  Data Scince
+summary:  Data Science
 comments: true
 sharing: true
 categories: hands-on
