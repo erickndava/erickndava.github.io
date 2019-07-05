@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2. The Data - Spatial"
-date: 2019-07-04 07:07:42 +0200
+date: 2019-07-05 07:45:42 +0200
 summary:  Data Science
 comments: true
 sharing: true
