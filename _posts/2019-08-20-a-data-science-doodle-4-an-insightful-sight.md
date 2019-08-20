@@ -14,7 +14,7 @@ tags:
  
 ---
 ###### [A Data Science Doodle]
-#### Map Like A Pro
+#### **Map Like A Pro**
 
 So at this stage the data is somewhat spatially ready and to scratch the itch of how the Service Requests look like on the ground I went for [Kepler.gl](https://kepler.gl/)
 
@@ -26,7 +26,7 @@ Since this exercise was not prompted by an existing 'business question', though 
 
  Note that this is not the entire data set of the 2011 service requests but it's a pretty good sample. The CSV is the portion which had atleast a suburb name attached to it. viz was 'geocodedable'.
 
-#### Spatial EDA (Exploratory Data Analysis)
+#### **Spatial EDA (Exploratory Data Analysis)**
 
 By turning the right knobs in Kepler.gl, one is offered the tools to do some quick EDA on the data. Some of the questions that can be quickly answered are 
 
@@ -35,7 +35,7 @@ By turning the right knobs in Kepler.gl, one is offered the tools to do some qui
 
 among many others. Let's answer these in turn
 
-##### 1. A Demanding Suburb
+##### **1. A Demanding Suburb**
 The obvious way of looking at demand would be to inspect the dots but, that can be overwhelming when looking at 800 000+ points. A better approach is to add a Hexbin Layer based on the service requests points, Add a height dimension for visual effect and size the hexagon appropriately (to satisfaction), then enable the 3D Map in Kepler.gl 
 
 <p align="center"><img src="/images/demand_hexbins.png" alt="Demand Hexbins"/></p>
@@ -44,7 +44,7 @@ The areas with high service demand become apparent.- Samora Machel, Parow, Kraai
 
 To explore the interactive visual follow [this link](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/bi6pp06cxn5w3xe/keplergl_mgp6tp.json).
 
-##### 2. The Busy Months
+##### **2. The Busy Months**
 
 Human have this special ability to identify spatial patterns, couple that with time and we can identify patterns over time. By applying a time filter in Kepler.gl we can scroll through time and truly and get a glimpse of where and when requests activity is highest.
 
@@ -56,7 +56,7 @@ You can zoom out to explore other areas, for instance
 
 These are just the few of the many questions one can answer in Kepler.
 
-#### Punching Holes Into A Hypothesis
+#### **Punching Holes Into A Hypothesis**
 
 ***Getting the boundaries wrong*** ~ The power of map visualisations give one that extra dimensional look at the data. During the data cleaning and processing stage, [**1. The Data - Service Requests**](https://erickndava.github.io/hands-on/2019/06/20/a-datascience-doodle-1-the-data/), one primary aim was to have suburb names conform to a narrow set of names separately sourced. The knowledge of local geography revealed immediately that the definition of suburb '*Athlone*' was skewed.
 
