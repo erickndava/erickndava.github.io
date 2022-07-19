@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Write Again"
-date: 2020-07-20 00:55 +0000
+date: 2022-07-20 01:09 +0200
 summary:  rant
 comments: true
 sharing: true
