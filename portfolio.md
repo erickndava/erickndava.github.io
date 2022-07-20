@@ -3,11 +3,10 @@ layout: page
 title: Portfolio of Work
 ---
 
-<p>
-  This is an attempted distillation of some of the more 'interactive' work I have done. Take it as an information grazer's fix. These are largely links to the 'Results' portion of Blog Posts I have made.
-</p>
+This is an attempted distillation of some of the more 'interactive' work I have done. Take it as an information grazer's fix. These are largely links to the 'Results' portion of Blog Posts I have made.
 
-## Here Goes . . . 
+
+## Here Goes . . .
 - [Hypothetical Cape Town Flood](https://erickndava.github.io/cape-cbd-dem/): A flood model to identify the 'flood-safest' spot near the Cape Town CBD.
 
 - [Dams of Cape Town](https://erickndava.github.io/dams-of-capetown/index.html): A story map of where Cape Town water comes from.
