@@ -31,11 +31,9 @@ author:
 # Custom vars
 # version:             2.1.0
 
-# plugins: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
-plugins:
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-sitemap
+
 
 paginate:         5
+paginate_path:    "page:num"
