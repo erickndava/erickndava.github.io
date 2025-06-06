@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
-## About
 
 At a time I wanted to be an astronaut/ cosmonaut. Even went on to chronicle my star observations in a journal, a toy telescope could have helped. Time progressed and then I couldn't miss an episode of [The Mechanical Universe](https://en.wikipedia.org/wiki/The_Mechanical_Universe). Computers happened (in my life) and I poked in the MS DOS Window with fascination for hours on end.
 
