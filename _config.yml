@@ -10,7 +10,7 @@ tagline:  'A spatial doodle'
 description:  'neaRThings is a blog on things geo and data, the rumblings of an enthusiast.'
 baseurl:  ""
 url:  ""
-paginate: 1
+paginate: 5
 
 # About/contact
 author:
@@ -19,5 +19,5 @@ author:
   email:  erick.ndava@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             2.1.0
 
