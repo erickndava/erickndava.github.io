@@ -1,23 +1,41 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
 # Permalinks
-#
+permalink:        '/:year/:month/:title.html'
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:  pretty
 relative_permalinks: true //deprecated
 
 # Setup
-title:  Erick Ndava
-tagline:  'A spatial doodle'
+title:  'Erick Ndava'
+tagline:  'Spatial Data Science'
 description:  'A geospatial scientist. Here I blog on things geo and data, the rumblings of an enthusiast.'
-baseurl:  ""
 url:  ""
-paginate: 5
+images:       '/images/'
+
 
 # About/contact
 author:
-  name: Erick Ndava
-  url:  https://twitter.com/erickndava
-  email:  erick.ndava@gmail.com
+  name:           'Erick Ndava'
+  email:          'erick.ndava@gmail.com'
+  url:            'https://erickndava.github.io'
+  twitter_handle: '@erickndava'
+  twitter:        'http://twitter.com/erickndava'
+  github:         'http://github.com/erickndava'
+  linkedin:       'http://linkedin.com/in/erick-ndava-89670716'
+  
+
 
 # Custom vars
 version:             2.1.0
 
+plugins: [jekyll-paginate]
+
+gems:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+paginate:         5
