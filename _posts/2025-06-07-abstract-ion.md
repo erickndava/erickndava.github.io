@@ -21,7 +21,7 @@ I knew some advantages of Pro, but the internal resistance was stemming from the
 
 #### **Abstract**..ion
 
-The past week I spend doing a course, [ArcGIS Pro Standard](https://www.esri-southafrica.com/wp-content/uploads/2021/08/ArcGIS-Pro-Standard.pdf) to improve my software skill level. This was not the first time opening the Pro software though. I have had a few months though dabbling in the software  especially with data management. So I could easily follow the Course Instructor's lead. In my head though I struggled with how things worked in Pro vs ArcMap. Somewhere three quarters through the course material, everything clicked in place as I understood things my own way. I came up with a hand sketch and from there-on it was smooth sailing...
+The past week I spend doing a course, [ArcGIS Pro Standard](https://www.esri-southafrica.com/wp-content/uploads/2021/08/ArcGIS-Pro-Standard.pdf) to improve my software skill level. This was not the first time opening the Pro software though. I have had a few months dabbling in the software  especially with data management. So I could easily follow the Course Instructor's lead. In my head though I struggled with how things worked in Pro vs ArcMap. Somewhere three quarters through the course material, everything clicked in place as I understood things my own way. I came up with a hand sketch and from there-on it was smooth sailing...
 
 <p align="center"><img src="/images/abstract_pro.PNG" alt="Pro vs ArcMap"/></p>
 #### #Postscript
