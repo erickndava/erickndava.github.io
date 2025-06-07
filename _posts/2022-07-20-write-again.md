@@ -3,7 +3,7 @@ layout: post
 title: "Write Again"
 date: 2022-07-20 01:09 +0200
 summary:  rant
-comments: true
+comments: false
 sharing: true
 categories: thought idea
 thumbnail: lightbulb-o
