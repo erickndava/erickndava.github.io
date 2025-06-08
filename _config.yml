@@ -12,7 +12,7 @@ permalink:        '/:year/:month/:title.html'
 title:  'Erick Ndava'
 tagline:  'Spatial Data Science'
 description:  'A geospatial scientist. Here I blog on things geo and data, the rumblings of an enthusiast.'
-url:  ""
+url:  'https://erickndava.github.io/'
 images:       '/images/'
 
 
