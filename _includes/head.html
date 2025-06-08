@@ -13,6 +13,11 @@
     {% endif %}
   </title>
 
+  <!-- Canonical URL -->
+  {% if page.url and site.baseurl %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% endif %}
+  
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css" />
   <link rel="stylesheet" href="/public/css/syntax.css" />
