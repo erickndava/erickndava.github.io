@@ -31,9 +31,11 @@ author:
 # Custom vars
 # version:             2.1.0
 
+plugins: [jekyll-paginate]
+ 
+url: "https://erickndava.github.io" # the base hostname & protocol for your site
 plugins:
- - jekyll-paginate
- - jekyll-sitemap
+  - jekyll-sitemap
 
 paginate:         5
 paginate_path:    "page:num"
