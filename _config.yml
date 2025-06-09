@@ -31,11 +31,12 @@ author:
 # Custom vars
 # version:             2.1.0
 
-plugins: [jekyll-paginate]
+# plugins: [jekyll-paginate] **commented out 09/06/2025
  
 url: "https://erickndava.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate # added in on 09/06/2025
 
 paginate:         5
 paginate_path:    "page:num"
