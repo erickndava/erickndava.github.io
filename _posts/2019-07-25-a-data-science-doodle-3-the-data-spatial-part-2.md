@@ -230,7 +230,7 @@ Next up...some eye candy! With a purpose.
 
 - While generating points in polygon based on count, the QGIS tool bombed out at a stage. I iteratively ran the tool (taking groups of suburb polygons at a time) to isolate the problem polygon - JOE SLOVO (LANGA).I then manually edited the polygon, then generated the points for it. This error made me question the validity checking procedure I had performed on the data. Add to that, doing an intersect using data in a geographic coordinate system led to unexpected results - Q warns on this beforehand. One scenario was having more than the specified number of random points generated per polygon, e.g. 18 instead of a specified 6. (With the algorithm reading the value from attribute of the data.)
 
-- Running the spatial queries in the GUI (QGIS) took considerable time due to the sheer number of records. Intersecting the points and the polygons can be improved, taking a tip by Paul Ramsey from [here](http://blog.cleverelephant.ca/2018/09/postgis-external-storage.html) for speed, with the data in PostGIS.
+- Running the spatial queries in the GUI (QGIS) took considerable time due to the sheer number of records. Intersecting the points and the polygons can be improved, taking a tip by Paul Ramsey from [here](https://blog.cleverelephant.ca/2018/09/postgis-external-storage.html) for speed, with the data in PostGIS.
 
 ```
 -- CHANGE STORAGE TYPE --
