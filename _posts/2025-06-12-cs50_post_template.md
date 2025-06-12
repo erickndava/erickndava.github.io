@@ -22,30 +22,30 @@ Briefly introduce the topic of this blog post. Mention where you are in the CS50
 -  Tools or languages introduced (e.g., C, IDEs, debugging)
 
 ---
- ## What I Learned 
+## What I Learned 
  
  Reflect on what you personally understood or found enlightening. You may include: 
  - Realizations or new mental models - Concepts that challenged your thinking 
  - Connections to data science or GIS
 
  ----
-  ## Insights from Struggles
+ ## Insights from Struggles
    - Mention specific bugs, errors, or confusing parts 
    -  How you resolved them (resources, lectures, community) 
    - What this taught you about problem-solving
      
-   ---
-   ## Practical Applications 
+ ---
+ ## Practical Applications 
    - Relate this week's content to: - Spatial science or GIS work 
    -  Potential data science applications - Industrial engineering relevance 
    
-   ---
-   ## CS50 Project Highlight 
+ ---
+ ## CS50 Project Highlight 
    - Describe the project or problem set from the week: 
    - What it required - How you approached it - Link to your code (GitHub, Gist, etc.) if desired 
 
-   ---
-   ## Progress toward PGDip
+ ---
+ ## Progress toward PGDip
    -  Goal Brief reflection on how this week’s learning brings you closer to readiness for: 
    - The PGDip in Data Science - Handling core topics like algorithms, programming, and data structures
 
