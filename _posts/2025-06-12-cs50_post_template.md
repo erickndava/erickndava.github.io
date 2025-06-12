@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Title of the Blog Post"
- date: 2025-06-12
+ date: 2025-06-12T16:01:00+02:00
  categories: CS50 Data Science PGDip Journey GIS
  tags: 
  - CS50
