@@ -56,7 +56,7 @@ Briefly introduce the topic of this blog post. Mention where you are in the CS50
 ## Final Thoughts 
    Wrap up with: 
    - Reflections on how you feel after completing the week 
-   -  Your personal growth or excitement for what's next 
+   - Your personal growth or excitement for what's next 
    - A teaser for the next post
 ---
    *Tagged: CS50, Data Science, PGDip Journey, GIS, Learning to Code*  
