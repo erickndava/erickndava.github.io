@@ -13,7 +13,6 @@
  draft: true
 --- 
 
-
 ## ![🎯](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f3af/32.png) Introduction 
 Briefly introduce the topic of this blog post. Mention where you are in the CS50 course (e.g., "Week 2: Arrays") and what you aimed to learn or achieve. 
 
@@ -23,6 +22,7 @@ Briefly introduce the topic of this blog post. Mention where you are in the CS50
 -  Tools or languages introduced (e.g., C, IDEs, debugging) 
 ---
  ## ![🧠](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f9e0/32.png) What I Learned 
+ 
  Reflect on what you personally understood or found enlightening. You may include: 
  - Realizations or new mental models - Concepts that challenged your thinking 
  -  Connections to data science or GIS 
@@ -31,7 +31,7 @@ Briefly introduce the topic of this blog post. Mention where you are in the CS50
    - Mention specific bugs, errors, or confusing parts 
    -  How you resolved them (resources, lectures, community) 
    - - What this taught you about problem-solving 
-   - ---
+   ---
    ## ![🛠️](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f6e0_fe0f/32.png) Practical Applications 
    - Relate this week's content to: - Spatial science or GIS work 
    -  Potential data science applications - Industrial engineering relevance 
