@@ -16,7 +16,7 @@ At the beginning of Q2 this year, I decided to pursue formal studies in data sci
 
  
 ## Why Data Science Now?
-Getting to a spatial analysis requires a great deal of data management and cleaning, I have had my share of that through my career. So, as part of upskilling strategy I have been thinking about and working on :
+Getting to a spatial analysis requires a great deal of data management and cleaning, I have had my share of that through my career. So, as part of my upskilling strategy I have been thinking about and working on :
  
 > strengthening my data analysis skills to become a Spatial Data Scientist, aiming to seat myself at the intersection of spatial data analysis and data science.
 
@@ -33,17 +33,16 @@ I self evaluated to check on some personal traits justifying why steer in that d
 
 ## Taking Havard's CS50
  
- One of the [requirements](https://ie-datascience.sun.ac.za/postgraduate-diploma-in-engineering/#Admission-Requirements) of the PostGrad Diploma is studies in Computer programming. They also recommend, among other courses, taking Harvard's [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) to meet this requirement. I chose to take this route even though I had done CT130- Computer Science for Engineers. That was 25 years ago and the focus Language was [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)). For my undergrad research project I delved in [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_(classic)). Over the years though I also have dubbled in C, recently [R](https://erickndava.github.io/hands-on/2019/06/20/a-datascience-doodle-1-the-data/). Some JavaScript and HTML in a [Web Mapping Project](https://erickndava.github.io/pioneer-column-map/index.html). So computer code, I can understand code fairly well and I can think programmatically to an extent.
+ One of the [requirements](https://ie-datascience.sun.ac.za/postgraduate-diploma-in-engineering/#Admission-Requirements) of the PostGrad Diploma is studies in Computer programming. They also recommend, among other courses, taking Harvard's [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) to meet this requirement. I choose to take this route even though I have done CT130- Computer Science for Engineers. That was 25 years ago and the focus Language was [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)). For my undergrad research project I delved in [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_(classic)). Over the years though I also have dubbled in C, recently [R](https://erickndava.github.io/hands-on/2019/06/20/a-datascience-doodle-1-the-data/). Some JavaScript and HTML in a [Web Mapping Project](https://erickndava.github.io/pioneer-column-map/index.html). So computer code, I can understand fairly well and I can think programmatically to an extent.
  
 Taking CS50, I aim to: 
-  - Relearn Computer Science concept, bringing structure to the knowledge and skill I acquired over time as a spatial scientist. 
+  - Relearn Computer Science concept, bringing structure to the knowledge and skill I have acquired over time as a spatial scientist. 
   - Get a good grasp of Computer Science Concepts like, picking from memory, pointers in C.
-  - Have a fresh and solid base when starting the PGDip studies
+  - Have a fresh and solid base for when starting the PGDip studies
 
 ## Documenting The Journey
-I enjoy writing, so I will start a blog series designed to document my experience with Harvard's CS50. In addition to completing the course and getting a certificate, this chronicle should hopefully act as evidence/ motivation for use when applying for admission to the PGDip in Industrial Engineering - Data Science at Stellenbosch University.
+I enjoy writing, so I will start a blog series designed to document my experience with Harvard's CS50. In addition to completing the course and getting a certificate, this chronicle should hopefully also act as evidence/ motivation for use when applying for admission to the PGDip.
 
 With the help of ChatGPT, I settled for a 12 week schedule to complete CS50, giving enough time to the application deadline. October 2025. Tomorrow I start!
 
 ---
-   *Tagged: CS50, Data Science, PGDip Journey, GIS, Learning to Code
