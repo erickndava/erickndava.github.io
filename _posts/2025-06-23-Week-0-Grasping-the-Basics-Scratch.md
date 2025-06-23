@@ -16,7 +16,7 @@
 The first lecture of almost 2 hours by Professor  [David J. Malan](https://cs.harvard.edu/malan/) was fascinating. Took me some time to adjust to how fast the Prof. talks. I paused and replayed at a few places, to digest, for instance, *"one can count up to 31 using a single hand's fingers."* .The course's aim is to teach one, **Computational Thinking**. That gave me a new mindset when looking at the course. I had several moments of refreshes to my knowledge of computer science topics like algorithms and functions. One huge takeaway was the concept of rubber ducking. Closing the lecture game playing on stage, was my namesake, Erick from Philadelphia. How coincidental!
 
  
-## Problem Set 0: Save Gobo
+## Problem Set 0: Starting from Scratch
 Problem set 0 was
 >to implement in Scratch, at [scratch.mit.edu](https://scratch.mit.edu/), any project of your choice
 
@@ -33,7 +33,7 @@ Some takeaways I got from this challenge
 
 *The idea of working with smaller blocks/ simpler code had been brought up and recommended in the video lecture by Prof. Malan. As I progressed with my game development challenge, I saw my code grow and becoming a little complex each time.*
 
-## A First Submission
+## A First Submission - *Save Gobo*
  
  Although CS50 is introduced as an entry-level course and suitable for anyone without prior programming experience, it helped that I had a [GitHub](https://github.com/) account. One is needed when submitting assignments and connecting with the learning platform [EdX](https://home.edx.org/)
 
