@@ -23,7 +23,7 @@ Problem set 0 was
 subject to some requirements. This caught me off guard a bit as I was expecting  to solve a pre-determined problem. I eventually settled on an falling  object avoidance game - *Save Gobo*. 
 
 Some takeaways I got from this challenge
-- Your **knowledge of the solution development environment** can be a barrier to the speed at which one can implement the solution.
+- Enough **knowledge of the solution development environment** (language) can be a barrier to the speed at which one can implement the solution.
 
 *I came to understand the need to read documentation to know what's available and as to what a tool/ function does and what it is most useful for. Often I had to read-up/ review the lecture, to find out how to do achieve a particular output.* 
 
@@ -31,11 +31,11 @@ Some takeaways I got from this challenge
 
 - Start with **smaller blocks** and then compound
 
-*The idea of working with smaller blocks/ simpler code. Had been brought up and recommended in the video lecture by Prof. Malan. As I progressed with my game development challenge, I saw my code grow and becoming a little complex each time.*
+*The idea of working with smaller blocks/ simpler code had been brought up and recommended in the video lecture by Prof. Malan. As I progressed with my game development challenge, I saw my code grow and becoming a little complex each time.*
 
 ## A First Submission
  
- Although the course is introduced as an entry-level course and suitable for anyone without prior programming experience, it helped that I had a [GitHub](https://github.com/) account. That is needed when submitting assignments and connecting with the learning platform [EdX](https://home.edx.org/)
+ Although the course is introduced as an entry-level course and suitable for anyone without prior programming experience, it helped that I had a [GitHub](https://github.com/) account. One is needed when submitting assignments and connecting with the learning platform [EdX](https://home.edx.org/)
 
 <p align="center"><img src="/images/GitHub_Invitation_for_CS50.png" alt="Invitation to CS50x"/></p>
 
@@ -47,7 +47,7 @@ Authorise for submission
 
 <p align="center"><img src="/images/Authorise_CS50.png" alt="Authorize Submit"/></p>
 
-So after completing the Scratch problem set, it had to be submitted. One of the most satisfying points was to get 8/8 on first submission. My scratch program met all the requirements as per the assignment. 
+So after completing the Scratch problem set, it had to be submitted. One of the most satisfying points was to get 8/8 on first submission. [My Scratch [Program](https://scratch.mit.edu/projects/1191429593) met all the requirements as per the assignment. 
 
 <p align="center"><img src="/images/Project_check.png" alt="Project Check"/></p>
 
