@@ -29,15 +29,19 @@ The partial screen capture above was the beginning of an exhilarating experience
 
 Through pure grit I solved the second of *Problem Set 1* , going through the code, iterating and learning from unintended consequence. I stuck to the coding screen as I knew the solution was not far, I was just not getting something/ quite understanding what the code was doing. Albeit gently, my Computation Thinking is developing.
 
-It was a satisfying feeling to finally see the output as expected, a right justified pyramid!
+It was a satisfying experience to finally see the output as expected, a right justified pyramid!
 <p align="center"><img src="/images/right-aligned_pyramid_finally.png" alt="Problem Set 1 Output"/></p>
 
 ## Reflections
 - This week I quickly realised more time needs to be committed to study to allow for tangential learning and deep dives in some areas.
 
-- I learnt that you don't ***have to*** get the solution at first go, at least as a beginner. Having walked from a problem for  few minutes ...only to return with a clear mind which presented the solution as obvious, without *rubber ducking.*
+- I learnt that you don't ***have to*** get the solution at first go, at least as a beginner. Having walked from a problem for a few minutes ...only to return with a clear mind which presented the solution as obvious, without *rubber ducking.*
 
 - It helped that I have some programming experience, I would have needed more time to 'get it' on the theory part.
 
-- Even though code compiles and executes, through use of CS50's Design50 tool, it became apparent there was room for better **design**, one of the three, CORRECTNESS - DESIGN - STYLE, areas to give attention to when coding as learnt in the lecture.
+- Even though code compiles and executes, through use of CS50's **Design50** tool, it became apparent there was room for better **design**, one of the three, CORRECTNESS - DESIGN - STYLE, areas to give attention to when coding as learnt in the lecture.
 <p align="center"><img src="/images/coins_calculator_design50.png" alt="Room for better design Design50"/></p>
+
+- [x] Week 1
+
+Onward to Week 2...potentially revisiting this week's submissions for better design.
