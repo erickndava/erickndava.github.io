@@ -47,5 +47,5 @@ paginate_path:    "page:num"
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-D69JW2T64K"
+    tracking_id: "G-X6K6QEE1E7"
     anonymize_ip: false # default
