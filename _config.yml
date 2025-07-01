@@ -42,4 +42,10 @@ paginate:         5
 paginate_path:    "page:num"
 
 # Google Analytics
-google_analytics: G-362878437
+# google_analytics: G-X6K6QEE1E7
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-D69JW2T64K"
+    anonymize_ip: false # default
