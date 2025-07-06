@@ -25,7 +25,7 @@ The theme of Good Program Design kept popping up and code was edited 'live' and 
 
 I had some ecstatic moments of glory and self celebration, having coded a word capitaliser from scratch. Through a self imposed coding sprint, I tackled one of the challenges - *Readability* from start to finish without first looking at the hints and helps that come with the problem specs. Much time was spend with *Debug50* as the program passed some and failed other correctness tests.  When I eventually looked at the proposed approach, it was satisfying to notice my approach was not that much different.
 
-| <p align="center"><img src="/images/debug50.png" alt="Debug50 Debugger"/></p> |
+| <img src="/images/debug50.png" alt="Debug50 Debugger"/> |
 |:--:|
 | *Popping the hood - Debugging Code with CS50's Debug50* |
 
