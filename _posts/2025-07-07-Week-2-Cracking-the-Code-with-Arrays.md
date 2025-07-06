@@ -12,7 +12,9 @@
  description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break." 
  draft: false
 --- 
-<p align="center"><img src="/images/setting_up_codespace.png" alt="Setting Up Codespace"/></p>
+| <img src="/images/setting_up_codespace.png" alt="Setting Up Codespace"/> |
+|:--:|
+| *Let's code.* |
 
 This week I saw more and more of that screen above = spend more time in the coding environment. I also had time to go back to Week 1 to work on, and submit an optional challenge, "mario-more". This gave me an even better understanding of '**for**' loops. Prof. Malan mentioned something in this week's lecture that grabbed my attention and spurred me on, on this journey, paraphrased:
 >"*When you're done with the course, you'll have this bottom-up understanding of what's going on. You'll get techniques and a mindset for solving real world problems.*"
