@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Week 2: Cracking the Code with Arrays"
- date: 2025-07-07T01:110:00+02:00
+ date: 2025-07-07T01:22:00+02:00
  categories: CS50 Data Science PGDip Journey GIS
  tags: 
  - CS50
