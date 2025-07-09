@@ -1,3 +1,4 @@
+
 ---
  layout: post
  title: "Week 2: Cracking the Code with Arrays"
@@ -36,3 +37,7 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 - One of the challenges this week, *Scrabble,* pushed my limits of **programmatic thinking**. I couldn't quickly crack the problem and find an approach. I had to go through the solution guide without a ready approach of my own. I learnt that it's okay to not know and it is all part of developing programmatic thinking muscle. My understanding of arrays improved as I could understand the solution easily, but getting the idea/ approach is what I lacked.
 
 - **Pseudo-coding** really helps with the thought process and helps break down the problem into bite-sized parts. You quickly realise where functions can be employed and you're able to **abstract** as much as possible. This isolation of 'small solutions' makes the problem look much smaller and surmountable. 
+
+- This week the training wheels are still on but the pushes and directions are became fewer and fewer. A very 'weak' framework to tackling the problem set is provided. I had a lot of **Rubber-ducking**, with *CS50 Duck Debugger* and a lot of ***Debug50*** as well. With the third task of the problem set, it took me a while to notice a *variable assignment* error which produced partially correct output. It was an exciting time debugging and similarly frustrating since I knew the code was correct, that's when the Duck really helped. 
+
+- With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
