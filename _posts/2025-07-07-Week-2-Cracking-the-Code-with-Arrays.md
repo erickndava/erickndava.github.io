@@ -1,4 +1,3 @@
-
 ---
  layout: post
  title: "Week 2: Cracking the Code with Arrays"
@@ -13,6 +12,7 @@
  description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break." 
  draft: false
 --- 
+
 | <img src="/images/setting_up_codespace.png" alt="Setting Up Codespace"/> |
 |:--:|
 | *Let's code.* |
