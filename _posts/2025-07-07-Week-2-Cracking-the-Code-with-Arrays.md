@@ -32,7 +32,7 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 |:--:|
 | *Popping the hood - Debugging Code with CS50's Debug50* |
 
-## Thinking Programatically, This Week's Take-Aways
+## Thinking Programmatically, This Week's Take-Aways
 
 - One of the challenges this week, *Scrabble,* pushed my limits of **programmatic thinking**. I couldn't quickly crack the problem and find an approach. I had to go through the solution guide without a ready approach of my own. I learnt that it's okay to not know and it is all part of developing programmatic thinking muscle. My understanding of arrays improved as I could understand the solution easily, but getting the idea/ approach is what I lacked.
 
