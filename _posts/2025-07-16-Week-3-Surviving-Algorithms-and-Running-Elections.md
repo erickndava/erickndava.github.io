@@ -26,12 +26,12 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 - Problem Set 3, tasks were increasing challenging. With the first two being quick wins and quite some warm up. With the third of the problems, the tri-cycle training wheels where completely-off! One could leverage on the previous task completed but that was just the first rung of a complex ladder system.  **Programmatic and algorithmic thinking** were scaled a notch. **Two dimensional arrays** were to be employed. The *Runoff* task, challenged one's ability to think in the **abstract**.
 
-- **Pseudo-coding** really helps with the thought process and helps break down the problem into bite-sized parts. You quickly realise where functions can be employed and you're able to **abstract** as much as possible. This isolation of 'small solutions' makes the problem look much smaller and surmountable. 
+- For the first time I went out to look for help ieally helps with the thought process and helps break down the problem into bite-sized parts. You quickly realise where functions can be employed and you're able to **abstract** as much as possible. This isolation of 'small solutions' makes the problem look much smaller and surmountable. 
 
 - This week the training wheels are still on but the pushes and directions are became fewer and fewer. A very 'weak' framework to tackling the problem set is provided. I had a lot of **Rubber-ducking**, with *CS50 Duck Debugger* and a lot of ***Debug50*** as well. With the third task of the problem set, it took me a while to notice a *variable assignment* error which produced partially correct output. It was an exciting time debugging and similarly frustrating since I knew the code was correct, that's when the Duck really helped. 
 
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTU1NTM5NV19
+eyJoaXN0b3J5IjpbLTM1ODAwNDU3MV19
 -->
