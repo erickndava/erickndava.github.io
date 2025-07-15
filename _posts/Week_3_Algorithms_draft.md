@@ -1,6 +1,6 @@
 ---
  layout: post
- title: "Week 2: Cracking the Code with Arrays"
+ title: "Week 3: Surviving Algorithms & Running Elections"
  date: 2025-07-07T01:22:00+02:00
  categories: CS50 Data Science PGDip Journey GIS
  tags: 
@@ -12,7 +12,7 @@
  description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break." 
  draft: false
 --- 
-Last week's [*Caesar*](https://en.wikipedia.org/wiki/Caesar_cipher) challenge pushed my schedule out by a few days and I had to pick-up pace in Week 3. Had the content been entirely new, I would have needed more time on Arrays. This week's focus was on thinking about solving problems better, ***thinking algorithmic-ally.*** A end-of class animation comparing ***Selection Sort***, ***Bubble Sort*** and  ***Merge Sort*** was priceless, succinctly illustrating good program design and efficiency in algorithms.
+Last week's [*Caesar*](https://en.wikipedia.org/wiki/Caesar_cipher) challenge pushed my schedule out by a few days and I had to pick-up pace Week 3. Had the content been entirely new, I would have needed more time on Arrays. This week's focus was on thinking about solving problems better, ***thinking algorithmic-ally.*** A end-of class animation comparing ***Selection Sort***, ***Bubble Sort*** and  ***Merge Sort*** was priceless, succinctly illustrating good program design and efficiency in algorithms.
 
 | <img src="/images/setting_up_codespace.png" alt="Setting Up Codespace"/> |
 |:--:|
@@ -44,6 +44,6 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjQxMzgzOCwtMTU1MzE5ODgxMywtMj
+eyJoaXN0b3J5IjpbMTM3MDExOTg2OCwtMTU1MzE5ODgxMywtMj
 A0MDg3NzAzMSw1NDI1NTIwOThdfQ==
 -->
