@@ -24,7 +24,7 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 ## Wheels Off . . . Collaborate
 
-- Problem Set 3, tasks were increasing challenging. With the first two being quick wins and quite some warm up. the third of the problems, the tri-cycle training wheels where completely-off! One could leverage on the previous task completed but that was just the first rung of the ladder, in a more complex  One of the challenges this week, *Scrabble,* pushed my limits of **programmatic thinking**. I couldn't quickly crack the problem and find an approach. I had to go through the solution guide without a ready approach of my own. I learnt that it's okay to not know and it is all part of developing programmatic thinking muscle. My understanding of arrays improved as I could understand the solution easily, but getting the idea/ approach is what I lacked.
+- Problem Set 3, tasks were increasing challenging. With the first two being quick wins and quite some warm up. With the third of the problems, the tri-cycle training wheels where completely-off! One could leverage on the previous task completed but that was just the first rung of a complex ladder system.  **Programmatic and algorithmic thinking** were . I couldn't quickly crack the problem and find an approach. I had to go through the solution guide without a ready approach of my own. I learnt that it's okay to not know and it is all part of developing programmatic thinking muscle. My understanding of arrays improved as I could understand the solution easily, but getting the idea/ approach is what I lacked.
 
 - **Pseudo-coding** really helps with the thought process and helps break down the problem into bite-sized parts. You quickly realise where functions can be employed and you're able to **abstract** as much as possible. This isolation of 'small solutions' makes the problem look much smaller and surmountable. 
 
@@ -33,5 +33,5 @@ While working through the Problem Set 3, the small wins really kept the morale a
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MDY1ODldfQ==
+eyJoaXN0b3J5IjpbLTI3NDAzNjk0MF19
 -->
