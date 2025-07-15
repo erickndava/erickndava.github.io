@@ -15,7 +15,7 @@
 
 | <img src="/images/setting_up_codespace.png" alt="Setting Up Codespace"/> |
 |:--:|
-| *Let's code.* |
+| *Execution * |
 
 Last week's [*Caesar*](https://en.wikipedia.org/wiki/Caesar_cipher) challenge pushed my schedule out by a few days and I had to pick-up pace in Week 3. Had the content been entirely new, I would have needed more time on Arrays. This week's focus was on thinking about solving problems better, ***thinking algorithmic-ally.*** A end-of class animation comparing ***Selection Sort***, ***Bubble Sort*** and  ***Merge Sort*** was priceless, succinctly illustrating good program design and efficiency in algorithms.
 
@@ -45,6 +45,6 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMxOTg4MTMsLTIwNDA4NzcwMzEsNT
-QyNTUyMDk4XX0=
+eyJoaXN0b3J5IjpbMTQ0NTAyNjgwMywtMTU1MzE5ODgxMywtMj
+A0MDg3NzAzMSw1NDI1NTIwOThdfQ==
 -->
