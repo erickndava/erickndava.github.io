@@ -18,7 +18,7 @@ Last week's [*Caesar*](https://en.wikipedia.org/wiki/Caesar_cipher) challenge pu
 |:--:|
 | *Execution Time* |
 
-The content overally was easy going and comprehensible. I could correctly identify and distinguish, first time, the three sorting algorithms  by analysing the run-times, *sketched on in the study note above.*
+This week's content was overally easy going and comprehensible. I could correctly identify and distinguish, first time, the three sorting algorithms  by analysing the run-times, *sketched on in the study note above.*
 
 While working through the Problem Set 3, the small wins do really keep the morale high. Incorrect use of a comparison operator can be code breaking. Using debugging techniques learnt in the course so far, like printing output at certain points of the code, I was able to isolate the problem without using the IDE's Debugging Tool.
 
@@ -45,5 +45,5 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTAwMDM0N119
+eyJoaXN0b3J5IjpbNjE1MDIzODk2XX0=
 -->
