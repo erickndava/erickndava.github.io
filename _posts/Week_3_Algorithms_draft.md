@@ -12,13 +12,13 @@
  description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break." 
  draft: false
 --- 
-Last week's [*Caesar*](https://en.wikipedia.org/wiki/Caesar_cipher) challenge pushed my schedule out by a few days and I had to pick-up pace Week 3. Had the content been entirely new, I would have needed more time on Arrays. This week's focus was on thinking about solving problems better, ***thinking algorithmic-ally.*** A end-of class animation comparing ***Selection Sort***, ***Bubble Sort*** and  ***Merge Sort*** was priceless, succinctly illustrating good program design and efficiency in algorithms.
+Last week's [*Caesar*](https://en.wikipedia.org/wiki/Caesar_cipher) challenge pushed my schedule out by a few days and I had to pick-up pace this week, *Week 3*. Had the content been entirely new, I would have needed more time on **arrays**. This week's focus was on thinking about solving problems better, ***thinking algorithmic-ally.*** A end-of class animation comparing ***Selection Sort***, ***Bubble Sort*** and  ***Merge Sort*** was priceless, succinctly illustrating good program design and efficiency in algorithms.
 
 | <img src="/images/setting_up_codespace.png" alt="Setting Up Codespace"/> |
 |:--:|
 | *Execution Time* |
 
-My prior knowledge of Computer PrograClearly my prior knowldege this week with This week I saw more and more of that screen above = spend more time in the coding environment. I also had time to go back to Week 1 to work on, and submit an optional challenge, "mario-more". This gave me an even better understanding of '**for**' loops. Prof. Malan mentioned something in this week's lecture that grabbed my attention and spurred me on, on this journey, paraphrased:
+The content overally was easy going My prior knowledge of Computer PrograClearly my prior knowldege this week with This week I saw more and more of that screen above = spend more time in the coding environment. I also had time to go back to Week 1 to work on, and submit an optional challenge, "mario-more". This gave me an even better understanding of '**for**' loops. Prof. Malan mentioned something in this week's lecture that grabbed my attention and spurred me on, on this journey, paraphrased:
 >"*When you're done with the course, you'll have this bottom-up understanding of what's going on. You'll get techniques and a mindset for solving real world problems.*"
 
 ## Debugging The Way to a Solution
@@ -44,6 +44,6 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDExOTg2OCwtMTU1MzE5ODgxMywtMj
+eyJoaXN0b3J5IjpbLTM2NDE0NzE4MSwtMTU1MzE5ODgxMywtMj
 A0MDg3NzAzMSw1NDI1NTIwOThdfQ==
 -->
