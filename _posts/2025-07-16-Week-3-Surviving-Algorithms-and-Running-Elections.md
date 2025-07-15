@@ -26,7 +26,7 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 - Problem Set 3, tasks were increasing challenging. With the first two being quick wins and quite some warm up. With the third of the problems, the tri-cycle training wheels where completely-off! One could leverage on the previous task completed but that was just the first rung of a complex ladder system.  **Programmatic and algorithmic thinking** were scaled a notch. **Two dimensional arrays** were to be employed. The *Runoff* task, challenged one's ability to think in the **abstract**.
 
-- For the first time I went out to look for help in a Slack Community, one of the many CS50 communities. It wasn't long 
+- For the first time I went out to look for help in a [Slack Community](https://cs50.edx.org/slack), one of the many CS50 communities. It wasn't long 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMzE3MDQ4XX0=
+eyJoaXN0b3J5IjpbLTYxNDAzNzI0NV19
 -->
