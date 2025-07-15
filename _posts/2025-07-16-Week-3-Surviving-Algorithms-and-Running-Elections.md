@@ -22,7 +22,7 @@ This week's content was overally easy going and comprehensible. I could correctl
 
 While working through the Problem Set 3, the small wins really kept the morale and drive to continue high. Incorrect use of a comparison operator can be code breaking. Using a debugging technique learnt in the course, viz printing output at certain points of the code, I was able to identify the problem with my code without using the IDE's Debugging Tools.
 
-## Debugging The Way to a Solution
+## Wheels Off . . . Collaborate
 
 Most fascinating this week was the section of debugging - using CS50's '*Debug50*' . I like seeing 'under-the-hood'. It turned out I had to use this tool extensively for one of the Challenges of the Problem Set. Watching variables change dynamically, albeit slowly, helps one quickly identify issues with the code. I notice with the course resource material (Main Lecture, Section and Shots), concepts are rehashed several times and from various angles, you will eventually 'get it.'
 
@@ -30,11 +30,6 @@ The theme of Good Program Design kept popping up and code was edited 'live' and 
 
 I had some ecstatic moments of glory and self celebration, having coded a word capitaliser from scratch. Through a self imposed coding sprint, I tackled one of the challenges - *Readability* from start to finish without first looking at the hints and helps that come with the problem specs. Much time was spend with *Debug50* as the program passed some and failed other correctness tests.  When I eventually looked at the proposed approach, it was satisfying to notice my approach was not that much different.
 
-| <img src="/images/debug50.png" alt="Debug50 Debugger"/> |
-|:--:|
-| *Popping the hood - Debugging Code with CS50's Debug50* |
-
-## Thinking Programmatically, This Week's Take-Aways
 
 - One of the challenges this week, *Scrabble,* pushed my limits of **programmatic thinking**. I couldn't quickly crack the problem and find an approach. I had to go through the solution guide without a ready approach of my own. I learnt that it's okay to not know and it is all part of developing programmatic thinking muscle. My understanding of arrays improved as I could understand the solution easily, but getting the idea/ approach is what I lacked.
 
@@ -45,5 +40,5 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg2NTg1NThdfQ==
+eyJoaXN0b3J5IjpbMTIwMzIyMTAyNV19
 -->
