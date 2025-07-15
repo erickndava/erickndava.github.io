@@ -28,7 +28,7 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 - For the first time I went out to look for help in a [Slack Community](https://cs50.edx.org/slack), one of the many CS50 communities. It wasn't long till I had a break and cracked the functions which were to be implemented.
 
--  Do work commitments. I have to renage my perfect 1 week 
+-  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjE3MzQ5M119
+eyJoaXN0b3J5IjpbLTIxNjI4NDgyOV19
 -->
