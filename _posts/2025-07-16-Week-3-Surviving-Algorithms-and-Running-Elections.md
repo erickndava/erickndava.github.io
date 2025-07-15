@@ -1,6 +1,6 @@
 ---
  layout: post
- title: "Week 3: Surviving Algorithms & Running Elections"
+ title: "Week 3: Surviving Algorithms and Running Elections"
  date: 2025-07-16T01:00:00+02:00
  categories: CS50 Data Science PGDip Journey GIS
  tags: 
@@ -45,5 +45,5 @@ I had some ecstatic moments of glory and self celebration, having coded a word c
 - With a 'correct' and functioning program at hand I asked the AI to check design, ***design50***. My program worked alright but there we a number of design change suggestions. My programmatic thinking is improving. I should focus as well on **improving design**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTE0Njc3Ml19
+eyJoaXN0b3J5IjpbMTk2OTAwMDM0N119
 -->
