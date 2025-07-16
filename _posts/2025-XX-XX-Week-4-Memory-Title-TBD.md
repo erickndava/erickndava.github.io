@@ -12,8 +12,9 @@
  description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break." 
  draft: false
 --- 
-Went into the week with malloc() in mind. That is the one thin
+Went into the week with malloc() in mind. That is the one thing that came to mind when I encountered the topic of memory and C.
 
+===========
 
 
 Last week's [*Caesar*](https://en.wikipedia.org/wiki/Caesar_cipher) challenge pushed my schedule out by a few days and I had to pick-up pace this week, *Week 3*. Had the content been entirely new, I would have needed more time on **arrays**. This week's focus was on thinking about solving problems better, ***thinking algorithmic-ally.*** A end-of class animation comparing ***Selection Sort***, ***Bubble Sort*** and  ***Merge Sort*** was priceless, succinctly illustrating good program design and efficiency in algorithms.
@@ -34,5 +35,5 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDQ3NjAyNV19
+eyJoaXN0b3J5IjpbNjA2MzgzMTAyXX0=
 -->
