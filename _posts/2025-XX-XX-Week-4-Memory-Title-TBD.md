@@ -14,6 +14,8 @@
 --- 
 Went into the week with malloc() in mind. That is the one thing that came to mind when I encountered the topic of memory and C.
 
+The lecture
+
 ===========
 
 
@@ -35,5 +37,5 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MzgzMTAyXX0=
+eyJoaXN0b3J5IjpbMTU5MTU0NDU4Nyw2MDYzODMxMDJdfQ==
 -->
