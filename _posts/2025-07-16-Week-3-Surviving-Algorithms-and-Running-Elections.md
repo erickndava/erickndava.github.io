@@ -24,11 +24,11 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 ## Wheels Off . . . Collaborate
 
-- Problem Set 3, tasks were increasing challenging. With the first two being quick wins and quite some warm up. With the third of the problems, the tri-cycle training wheels where completely-off! One could leverage on the previous task completed but that was just the first rung of a complex ladder system.  **Programmatic and algorithmic thinking** were scaled a notch. **Two dimensional arrays** were to be employed. The *Runoff* task, challenged one's ability to think in the **abstract**.
+- Problem Set 3, tasks were increasing challenging. With the first two being quick wins and quite a warm up. With the third of the problems, the training wheels where completely-off! One could leverage on the previous task completed and that ws it. Just the first rung of a complex ladder system.  **Programmatic and algorithmic thinking** were scaled a notch. **Two dimensional arrays** were to be employed. The *Runoff* task, challenged one's ability to think in the **abstract**.
 
 - For the first time I went out to look for help in a [Slack Community](https://cs50.edx.org/slack), one of the many CS50 communities. It wasn't long till I had a break and cracked the functions which were to be implemented.
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTcwMjQ3M119
+eyJoaXN0b3J5IjpbMjc3MTgyMDMwLC0yMjE3MDI0NzNdfQ==
 -->
