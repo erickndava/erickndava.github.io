@@ -16,7 +16,7 @@ Went into the week with malloc() in mind. That is the one thing that came to min
 
 The lecturer Prof. Malan Literally brought traiing wheels to the class. and threw them to the ground to demonstrate things were being escalated..opening the fire hose.
 
-The shots video on Hexadecimal really brought me to understand the system versus the lecture. Also brought the ligh bulb moemnt when I saw the notation and some computer science literature I have come across , 0xADC, anyone
+The shots video on Hexadecimal really brought me to understand the system versus the lecture. Also brought the ligh bulb moemnt when I saw the notation and some computer science literature I have come across , 0xADC, anyone?
 
 Doug clearly states that this will probably be the most difficyult topic that will be tackled in cs50.
 
@@ -49,6 +49,6 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjM4NTg4NCwyMDA4MzcxMzEsNTcyMj
-E0NDg5LDIwMTQ0NzYzODgsNjA2MzgzMTAyXX0=
+eyJoaXN0b3J5IjpbNjY2OTUzMDUzLDIwMDgzNzEzMSw1NzIyMT
+Q0ODksMjAxNDQ3NjM4OCw2MDYzODMxMDJdfQ==
 -->
