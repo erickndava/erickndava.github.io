@@ -16,6 +16,10 @@ Went into the week with malloc() in mind. That is the one thing that came to min
 
 The lecturer Prof. Malan Literally brought traiing wheels to the class. and threw them to the ground to demonstrate things were being escalated..opening the fire hose.
 
+The shots video on Hexadecimal really brought me to understand the system versus the lecture.
+
+
+
 ===========
 
 
@@ -37,5 +41,6 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDQ3NjM4OCw2MDYzODMxMDJdfQ==
+eyJoaXN0b3J5IjpbNTcyMjE0NDg5LDIwMTQ0NzYzODgsNjA2Mz
+gzMTAyXX0=
 -->
