@@ -16,7 +16,7 @@ Went into the week with malloc() in mind. That is the one thing that came to min
 
 The lecturer Prof. Malan Literally brought traiing wheels to the class. and threw them to the ground to demonstrate things were being escalated..opening the fire hose.
 
-The shots video on Hexadecimal really brought me to understand the system versus the lecture.
+The shots video on Hexadecimal really brought me to understand the system versus the lecture. 
 
 Doug clearly states that this will probably be the most difficyult topic that will be tackled in cs50.
 
@@ -24,7 +24,7 @@ Doug clearly states that this will probably be the most difficyult topic that wi
 
 I sat through the pointers lecture (shot) in order to get it! I'm in nor sush to get this topic over with nor ruah to the problem set to move along  the course. I want to develop my ability/ resislience to learn difficult stuff.
 
-DOUGH lLOY
+DOUGH lLOYD - pointers take a lot ofg practice to master. But the benefit we get from their correct use, far outweighs the effort it takes to learn and master them
 
 
 
@@ -49,6 +49,6 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MzM0NDEyLDIwMDgzNzEzMSw1NzIyMT
-Q0ODksMjAxNDQ3NjM4OCw2MDYzODMxMDJdfQ==
+eyJoaXN0b3J5IjpbLTEyODIxMTM1MjAsMjAwODM3MTMxLDU3Mj
+IxNDQ4OSwyMDE0NDc2Mzg4LDYwNjM4MzEwMl19
 -->
