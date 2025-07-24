@@ -22,7 +22,9 @@ Doug clearly states that this will probably be the most difficyult topic that wi
 
 --> Pointers are just addresses . ADDRESSESs to memmory where variables live. 
 
-I sat through the pointers lecture (shot) in order to get it! I'm in nor sush to get 
+I sat through the pointers lecture (shot) in order to get it! I'm in nor sush to get this topic over with nor ruah to the problem set to move along  the course. I want to develop my ability/ resislience to learn difficult stuff.
+
+DOUGH lLOY
 
 
 
@@ -47,6 +49,6 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjkyMDI5NCwyMDA4MzcxMzEsNTcyMj
-E0NDg5LDIwMTQ0NzYzODgsNjA2MzgzMTAyXX0=
+eyJoaXN0b3J5IjpbNjU1MzM0NDEyLDIwMDgzNzEzMSw1NzIyMT
+Q0ODksMjAxNDQ3NjM4OCw2MDYzODMxMDJdfQ==
 -->
