@@ -20,6 +20,10 @@ The shots video on Hexadecimal really brought me to understand the system versus
 
 Doug clearly states that this will probably be the most difficyult topic that will be tackled in cs50.
 
+--> Pointers are just addresses . ADDRESSESs to memmory where variables live. 
+
+I sat through the pointers lecture (shot) in order to get it! I'm in nor sush to get 
+
 
 
 ===========
@@ -43,6 +47,6 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODM3MTMxLDU3MjIxNDQ4OSwyMDE0ND
-c2Mzg4LDYwNjM4MzEwMl19
+eyJoaXN0b3J5IjpbMTkzMjkyMDI5NCwyMDA4MzcxMzEsNTcyMj
+E0NDg5LDIwMTQ0NzYzODgsNjA2MzgzMTAyXX0=
 -->
