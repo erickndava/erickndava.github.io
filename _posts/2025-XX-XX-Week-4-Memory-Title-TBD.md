@@ -20,6 +20,7 @@ The shots video on Hexadecimal really brought me to understand the system versus
 
 
 
+
 ===========
 
 
@@ -41,6 +42,6 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMjE0NDg5LDIwMTQ0NzYzODgsNjA2Mz
-gzMTAyXX0=
+eyJoaXN0b3J5IjpbLTEzMTk2OTMzNyw1NzIyMTQ0ODksMjAxND
+Q3NjM4OCw2MDYzODMxMDJdfQ==
 -->
