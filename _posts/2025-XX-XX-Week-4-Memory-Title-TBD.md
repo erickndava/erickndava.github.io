@@ -12,6 +12,10 @@
  description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break." 
  draft: false
 --- 
+
+file I/O  - the consolation of pointers
+
+
 Went into the week with malloc() in mind. That is the one thing that came to mind when I encountered the topic of memory and C.
 
 The lecturer Prof. Malan Literally brought traiing wheels to the class. and threw them to the ground to demonstrate things were being escalated..opening the fire hose.
@@ -49,6 +53,7 @@ While working through the Problem Set 3, the small wins really kept the morale a
 
 -  Due to pressing work commitments. I have to renage my week on week plan for the course. I will continue on Week 4 in a week's time. Wow! That was a lot of weeks in a few sentences. Not very good design.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2OTUzMDUzLDIwMDgzNzEzMSw1NzIyMT
-Q0ODksMjAxNDQ3NjM4OCw2MDYzODMxMDJdfQ==
+eyJoaXN0b3J5IjpbMTQ1ODA4MjgyMCw2NjY5NTMwNTMsMjAwOD
+M3MTMxLDU3MjIxNDQ4OSwyMDE0NDc2Mzg4LDYwNjM4MzEwMl19
+
 -->
