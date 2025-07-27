@@ -16,7 +16,7 @@
 |:--:|
 | *German Shorthaired Pointer Dog* |
 
-The nervousness with which I started **Week 4** *Memory*, was justified. One of the instructors explicitly said that the topic of pointers was probably going to be the most challenging topic to be tackled in CS50. malloc() was lingering in my memory as I started this Week 4's topic.
+Well, this is not a post about a dog nor dogs. It is about pointers. The nervousness with which I started **Week 4** *Memory*, was justified. One of the instructors explicitly said that the topic of pointers was probably going to be the most challenging topic to be tackled in CS50. malloc() was lingering in my memory as I started this Week 4's topic.
 
 Prof. Malan brought literal training wheels to class which he threw to the ground to demonstrate things were being escalated i.e. opening the fire hose.
 
