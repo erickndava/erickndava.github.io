@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Week 4: Pointers, Memory and 16 Digits to Work With"
- date: 2025-07-31T10:46:00+02:00
+ date: 2025-07-31T10:42:00+02:00
  categories: CS50 Data Science PGDip Journey GIS
  tags: 
  - CS50
