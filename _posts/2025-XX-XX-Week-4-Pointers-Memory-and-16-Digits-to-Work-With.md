@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Week 4: Pointers, Memory and 16 Digits to Work With"
- date: 2025-XX-XXT01:00:00+02:00
+ date: 2025-07-31T10:46:00+02:00
  categories: CS50 Data Science PGDip Journey GIS
  tags: 
  - CS50
@@ -20,13 +20,25 @@ Well, this is not a post about a dog or dogs, but yes, it is about pointers. The
 
 Prof. Malan brought literal training wheels to class which he threw to the ground to demonstrate things were being escalated i.e. opening the fire hose.
 
-The highlight this week was learning about Hexadecimals (base-16). The shots video on Hexadecimal really brought me to understand the system versus the coverage in the main lecture. It brought the light-bulb moment when I saw the notation and a recall of some computer science literature I have come across , 0xADC, anyone?
+The highlight this week was learning about Hexadecimals (base-16). The shots video on Hexadecimal really brought me to understand the system versus the coverage in the main lecture. It brought the light-bulb moment when I saw the notation and a recall of some computer science literature I have come across , 0xADC et. al.
 
 ## Learning Hard Topics
 I 'sat' through the pointers lecture (shots) in order to *get it*! I was in no rush to get this topic over with, nor rush to the Problem Set to move along  the course. I wanted to develop my ability/ resilience to learn difficult stuff. As Doug Lloyd pointed out
 > pointers take a lot of  practice to master. But the benefit we get from their correct use, far outweighs the effort it takes to learn and master them.
 
 Doug's quick take really exposed the fundamentals of pointers and the topic sunk in. The main consolation was learning about their utility in **File I/O**. An area which should excite any enthusiast as it avails the programmer power to manipulate files!
+
+Getting through Problem Set 4 was through small progressively victories, getting through one function at a time. Through it all, I got to understand nested loops and 2 dimensional arrays even better. There were a lot of those with this pset. Victory run, solving an upper limit case for the image manipulation routine, by investigating the output from the program. The correct program control and condition selection was the sticking point. More learning.
+
+| <img src="/images/sepia_problems.png" alt="Sepia Trouble"/> |
+|:--:|
+| *Sepia Problems - Pixel Values > 255* |
+
+Taking from the lecture, I had opportunity to investigate memory issues when my code was found faulty by the check50, using **Valgrind** 
+
+| <img src="/images/valgrind_output.png" alt="Memory Issues with Valgrind"/> |
+|:--:|
+| *Memory Issues* |
 
 ## What I learnt About Pointers
 
