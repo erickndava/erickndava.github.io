@@ -1,20 +1,16 @@
-
-
-
-
 ---
- layout: post
- title: "Week 5: Hash Hash Thinking About Code Collaboration and Nodes"
+layout: post
+title: "Week 5: Hash, Hash. Thinking About Code-Collaboration and Nodes"
 date: 2025-08-07T14:20:00+02:00
- categories: CS50 Data Science PGDip Journey GIS
- tags: 
+categories: CS50 Data Science PGDip Journey GIS
+tags: 
  - CS50
  - C Programming
  - Spatial Science
  - PGDip
  - Learning to Code
- description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break." 
- draft: false
+description: "Deciding to deep-dive into Data Science, leveraging spatial data expertise and writing about the break."
+draft: false
 --- 
 | <img src="/images/progress_week_5_of_11.png" alt="Pogress Bar"/> |
 |:--:|
