@@ -20,7 +20,7 @@ So after submission of Week 5 Problem Set solutions, the above is my current pro
 
 The previous week on [memory](https://erickndava.github.io/cs50/data/science/pgdip/journey/gis/2025/07/31/Week-4-Pointers-Memory-and-16-Digits-to-Work-With/), was a bit intense as the code became more complex. Had the motivation for studying not been strong, Week 4 was a good time to quit. But, as I have learned from *[Learning Hard Topics](https://erickndava.github.io/cs50/data/science/pgdip/journey/gis/2025/07/31/Week-4-Pointers-Memory-and-16-Digits-to-Work-With/)*, some topics are challenging like that. With the content of Week 5, It's clear now that was necessary foundation. The week is a culmination of C and will veer off to Python in Week 6 (*looking forward to that*). It feels truly like a peak of the course and I am expecting to now plateau. 
 
-From so much use of loops and defaulting to 'i' as a loop variable I concluded that the **i** stands for any of - **i**terate, **i**nitialise, **i**ndex.
+From so much use of loops and defaulting to 'i' as a loop variable I concluded that the **i** stands for any of - **i**nteger, **i**terate, **i**nitialise, **i**ndex.
 
 | <img src="/images/iterator.png" alt="For Loop"/> |
 |:--:|
