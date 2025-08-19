@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Week 6: Learning a Programming Language, Again! From C to Python, Quickly."
- date: 2025-08-19T19:45:00+02:00
+ date: 2025-08-19T18:51:00+02:00
  categories: CS50 Data Science PGDip Journey GIS
  tags: 
  - CS50
