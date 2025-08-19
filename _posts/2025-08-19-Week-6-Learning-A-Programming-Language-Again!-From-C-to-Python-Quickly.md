@@ -17,6 +17,7 @@ As a spatial scientist, starting on Python was particularly interesting. The lan
 In this week's Lecture, Shot and Section, Python is really dealt like rock skipping, touching the surface but, never sinking to depth.  It was really about "*How to Teach Yourself a New Programming Language*". Even with the Problem Set, the same was reiterated.
 
 If I should gripe a little, every time the codespace had to be updated, I lost my theme - Cobalt 2. It however was not a pain getting things back to the way they were.
+
 | <img src="/images/rebuilding_codespace.png" alt="Codespace Rebuild"/> |
 |:--:|
 | *Codespace My Way - A Dark Mode* |
@@ -47,6 +48,7 @@ Again I learn that every problem at first glance looks insurmountable. The probl
 I am looking forward to SQL and having to take a break from general purpose programming languages. The week-to-week tempo I adopted in the face of limited time makes everything feel like a rat race, albeit exciting, in the face of a weekend deadline.
 
 Let me put an end of post bar hereunder in the form of a progress bar, which surprisingly is blue  from red at the moment. 
+
 | <img src="/images/progress_week_6_of_11.png" alt="Past the Halfway Mark"/> |
 |:--:|
 | *The Gradebook - Blue Zone Progress* |
