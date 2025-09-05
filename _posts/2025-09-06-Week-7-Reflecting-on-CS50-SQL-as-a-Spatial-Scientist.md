@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "Week 7: Reflecting on CS50’s SQL as a Spatial Scientist."  
-date: 2025-09-06T12:49:00+02:00  
+date: 2025-09-06T01:15:00+02:00  
 categories: CS50 Data Science PGDip Journey GIS  
 tags:  
 - CS50  
