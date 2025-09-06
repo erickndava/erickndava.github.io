@@ -19,7 +19,7 @@ The first part turned out to be a great easy-going refresher. As a spatial scien
   
 I noticed a personal preferance when it came to constructing queries, favouring  
 ```sql  
-JOIN ... ON ... ---Inner Table Joins  
+JOIN ... ON ... ---Inner Joins  
 ```  
 versus  
 ~~~sql  
