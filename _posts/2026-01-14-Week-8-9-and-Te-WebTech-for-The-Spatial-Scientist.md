@@ -20,11 +20,11 @@ From Week 8, work and other pressing issues broke my week-on-week streak! Necess
 |:--:|
 | *A Modal Pop-up - JS/ CSS* |
 
-Content in Week 8 was not too foreign. Being the network administrator of my fibre to the home network, lessons on TCP/IP was familiar ground. I knew enough of how traffic traverses the web - my home network is customised with a [PiHole](https://pi-hole.net/) and a has network wide [DNS filtering](https://welcome.opendns.com/). 
+Content in Week 8 was not too foreign. Being the network administrator of my fibre to the home network, lessons on TCP/IP was familiar ground. I knew enough of how traffic traverses the web - my home network is customised with a [PiHole](https://pi-hole.net/) and has network wide [DNS filtering](https://welcome.opendns.com/). 
 
 Having setup my blogging site in 2015 from scratch and through several iterations, writing HTML code felt at home. I have in my portfolio, some web-mapping projects which leverage HTML. The twist came when it was time to delve deeper in Java Script. Earlier learning through the course drove home the fact that the course is really about learning to learn new languages more quickly and easily.
 
-In the years past I have fiddled with the [LAMP  Stack](https://aws.amazon.com/what-is/lamp-stack/). Experiencing Flask in Week 9 was a breath of fresh air. Quickly seeing the results of one's development efforts. It was not easy untangling the interlinked parts (documents) of a Flask app. But once understood, it makes sense as the power of templating and frameworks is exposed. It becomes rather
+In the years past I have fiddled with the [LAMP  Stack](https://aws.amazon.com/what-is/lamp-stack/). Experiencing Flask in Week 9 was a breath of fresh air. Quickly seeing the results of one's development efforts. Early on, it was not easy untangling the interlinked parts (documents) of a Flask app. But once understood, it makes sense as the power of templating and frameworks is exposed. It becomes rather
 convenient.
 
 | <img src="/images/web-server-running.png" alt="My Flask App"/> 
@@ -40,9 +40,9 @@ One of the objectives of this blog series was to:
 
 As the deadline for application for the PG Diploma drew close. I pushed to get across the completion line of CS50. There just wasn't enough time to finish Week 10, The Project.  I successfully completed Week 0 - 9 with the required assignment passmarks. 
 
-I used the tasks transcript to 'motivate' for my 'Computer Science Course equivalent to a University First year course. It turned out I didn't need to take this course! 20 years ago I did **Computer Science for Engineers** for my BSc Studies and that was sufficient. Nothing though replaces the 6 months of refreshing my knowledge, un-learning, re-learning and cementing current knowings. 
+I used the tasks transcript to 'motivate' for my 'Computer Science Course equivalent to a University First year course. It turned out I didn't need to take this course! 20 years ago I did **Computer Science for Engineers** for my BSc Studies and that was sufficient. Nothing though replaces the 6 months of refreshing my knowledge, un-learning, re-learning and cementing current knowings though, before 31 October 2025.
 
-With time, I must still do the Final Project to get the Harvard Certificate. ..before then,  let me drop the morphed wall schedule. 
+With time, I must still do the Final Project to get the Harvard Certificate. ..before then,  let me drop the morphed on-wall study schedule. 
 
 | <img src="/images/cs50_personal_time_table.jpg" alt="CS50 Personal Schedule"/> 
 |:--:|
