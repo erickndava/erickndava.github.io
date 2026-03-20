@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "How CS50 Propped My Studies in Data Science"  
-date: 2026-03-21T15:54:00+02:00  
+date: 2026-03-20T21:54:03+02:00  
 categories: CS50 Data Science PGDip Journey GIS  
 tags:  
 - CS50  
