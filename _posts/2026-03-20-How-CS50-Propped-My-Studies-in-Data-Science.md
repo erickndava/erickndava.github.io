@@ -13,7 +13,8 @@ description: "Deciding to deep-dive into Data Science, leveraging
 spatial data expertise and writing about the break."  
 draft: false  
 ---  
-| <img src="/images/cs50_codespace_about_to_be_deleted.PNG" alt="Codespace will expire"/> 
+
+| <img src="/images/cs50_codespace_about_to_be_deleted.png" alt="Codespace will expire"/> 
 |:--:|
 | *A Courtesy email from GitHub* |
 
@@ -36,6 +37,6 @@ Introduction to Computer Science, gave an environment with some training wheels.
 
 This is not all I have benefited, I got enough grounding to take off this journey and now I focus on thinking as a Data Scientist and mastering the necessary tools, for I've been spending sometime with code:
 
-| <img src="/images/code_to_commit_in_a_dev_env.PNG" alt="Changes to commit"/> 
+| <img src="/images/code_to_commit_in_a_dev_env.png" alt="Changes to commit"/> 
 |:--:|
 | *Some Time With Code* |
