@@ -22,14 +22,14 @@ draft: false
 *This post is not to discredit datasets shared by The City of Cape Town but is a personal reflection on practical data quality issues that became an opportunity of learning on the subject.*
 
 ---
-I have [always been intrigued](https://erickndava.github.io/hands-on/2019/06/20/a-datascience-doodle-1-the-data/) by the City of Cape Town's (CoCT) service request data. I perceive it to be a proxy of the municipality's pulse. So I find myself returning to it. Equipped with a better data science toolbox, I set out to approach it programmatically and not  by bruteforce nor rudiment.
+I have [always been intrigued](https://erickndava.github.io/hands-on/2019/06/20/a-datascience-doodle-1-the-data/) by the City of Cape Town's (CoCT) service request data. I perceive it to be a proxy of the municipality's pulse. So I find myself returning to it. Equipped with a better data science toolbox, I set out to approach it programmatically and not by bruteforce nor rudiment.
 
 I downloaded a snapshot of the City’s Service Request dataset covering January 2023 to October 2026. It contained more than 5.3 million rows. The first temptation was *"What can I visualise?"* But the fisrt question was *"What does this data believe it is?"*
 
-The intention was to have a live tap to the source but it, turned out that the endpoint was soon after, discontinued and I had to work with the snapshot. 
+The intention was to have a live tap to the source but, the endpoint was soon after discontinued and I had to work with the snapshot. 
 
 ### 1. Puttting A Source Data Contract in Place
-A pre-profiling stage was putting in place a source data contract which records the CoCT ArcGIS layer URL, service item ID and layer type. The contract goes on to describe 14 expected fields and their roles:
+A pre-profiling step was putting in place a source data contract which recorded the CoCT ArcGIS layer URL, service item ID and layer type. The contract goes on to describe 14 expected fields and their roles:
 
 | Field	| Description |
  | -------- | -------- |
@@ -44,18 +44,18 @@ A pre-profiling stage was putting in place a source data contract which records 
 
 The following fields were identified for key checks such as whether requests repeat, whether dates are plausible and whether coordinate values are complete and valid. 
 
-Profiling showed that ***Notification*** is repeated and as such could not be treated as a unique row key. 
+Profiling showed that `Notification` is repeated and as such could not be treated as a unique row key. 
 
 | Key Role	| Source Field |
  | -------- | -------- |
-| Business key | Notification |
-| Created date  | Created_On_Date |
-| Changed date | Changed_on |
-| Completed date | Completed_Date |
-| Coordinate fields  | X_Y_Co_ordinate_1, X_Y_Co_ordinate_2 |
+| Business key | `Notification` |
+| Created date  | `Created_On_Date` |
+| Changed date | `Changed_on` |
+| Completed date | `Completed_Date` |
+| Coordinate fields  | `X_Y_Co_ordinate_1`, `X_Y_Co_ordinate_2` |
 | Timezone | Africa/Johannesburg |
 
-The contract establishes the expectations against which the data could be tested were it to be provisioned constantly. It is the dataset’s point of entry into the pipeline and does not assume that the data is clean.
+The contract established the expectations against which the data could be tested were it to be provisioned constantly. It is the dataset’s point of entry into the pipeline and does not assume that the data is clean.
 
 
 ### 2. Profiling 5.3 million service-request records
@@ -70,35 +70,35 @@ A copy of the data was profiled by measuring:
 - Coordinate completeness and 
 - Rows by time period.
 
-#### The following were key findings:
+#### The following were some key findings:
 
 ##### THE BUSINESS KEY
 
-1. The snapshot contained 5,372,466 rows. Notification was not unique and 709,092 request numbers appeared more than once, producing 946,523 extra rows, approximately 17.6% of the table.
+1. The snapshot contained 5,372,466 rows. `Notification` was not unique and 709,092 request numbers appeared more than once, producing 946,523 extra rows, approximately 17.6% of the table.
 
 >A row is therefore not necessarily a request. Counting rows directly would overstate totals.
 
-2. 566,194 Notification values were exact copies apart from ObjectId. Another 142,898 repeated values differed in at least one field, commonly Ward, Coordinates, Dates, Sub_Council, Notification_type or Suburb.
+2. 566,194 'Notification' values were exact copies apart from 'ObjectId'. Another 142,898 repeated values differed in at least one field, commonly `Ward`, `Coordinates`, Dates, `Sub_Council`, `Notification_type` or `Suburb`.
 
->As such, The data rejected a simple rule to **"keep the latest row"** - 7,815 requests had both open and closed rows and 107,994 repeated groups had tied latest timestamps with different content.
+>As such, The data rejected a simple rule to ***"keep the latest row"*** - 7,815 requests had both open and closed rows and 107,994 repeated groups had tied latest timestamps with different content.
 
 ##### TEXT AS DISTRIBUTIONS
 
 For each text field, record raw distinct values, values after trimming and casenormalisation, nulls, blanks, singleton values and coverage of the top values.
 
->**C3_Complaint_Type** behaved like a controlled category: 1,154 raw values and 85.3% of rows covered by the top 100. **Notification_type** had 1,630,557 raw values and 1,308,510
+>**C3_Complaint_Type** behaved like a controlled category: 1,154 raw values and 85.3% of rows covered by the top 100. `Notification_type` had 1,630,557 raw values and 1,308,510
 singletons.
 
-After removing embedded dates and long reference numbers, Notification_type fell to 352,024 distinct values and 90.0% of rows belonged to values seen at least ten times.
+After removing embedded dates and long reference numbers, `Notification_type` fell to 352,024 distinct values and 90.0% of rows belonged to values seen at least ten times.
 
 ##### PLACEHOLDERS AND MISSINGNESS
 
 The data uses #, 0, 000, MUL, NUL, Not assigned, blanks and other sentinel values.
  As a highlight:
- >Approximately 37% of Ward rows had no usable value and about  39% of Sub_Council rows had no usable value. Suburb used # for 8.0% of rows in addition to nulls and blanks.
+ >Approximately 37% of `Ward` rows had no usable value and about  39% of `Sub_Council` rows had no usable value. `Suburb` used # for 8.0% of rows in addition to nulls and blanks.
 
 ##### COORDINATE ISSUES - COMPLETENESS VS VALIDITY
-A populated coordinate was not automatically a valid location. So had to test whether values are non-zero, numerically plausible, in a recognised coordinate layout, convertible to latitude and longitude and inside or near the metro boundary.
+A populated coordinate was not automatically a valid location. So I had to test whether values are non-zero, numerically plausible, in a recognised coordinate layout, convertible to latitude and longitude and inside or near the metro boundary.
 
 >Some had to be completely rejected and a decision had to be made for downstream processing whether to use a generalised location such as Suburb or Ward. It turned out also that two coordinate systems where in use, hinting of diseparate  originating systems.
 
@@ -108,7 +108,7 @@ Also checked monthly volumes, gaps, future or implausible dates, created versus 
 > Whole months where found to be missing in some instances.  For example request from February 2025 are missing entirely. Hinting on failed copy/ update operation.
 
 ### 3. The Rulebook
-Profiling told what was happening and brought to bear all the data issues. A rulebook was then necessasry to record decisions I made about it for the benefit of subsequent data handling steps.
+Profiling told what was happening and brought to bear all the data issues. A rulebook was then necessary to record decisions I made about it for the benefit of subsequent data handling steps.
 
 Every rule had to have an ID, the rule itself, its status and the setting controlling it.
 
@@ -123,8 +123,6 @@ The data-quality report here turns the profiling results into decisions. It show
 
 Snapshot: 7 October 2026  
 Rows profiled: 5,372,466  
-Overall status: WARN
-The dataset is useful for analysis, but it should not be sent directly to a dashboard without deduplication, standardisation and validation.
 
 | Status | Finding | Why it matters | Action |
 |---|---|---|---|
@@ -141,7 +139,7 @@ The dataset is useful for analysis, but it should not be sent directly to a dash
 
 ### Summarily:
 
-Overally the data is gudged as WARN(ING). It means that the data requires documented treatment before it can support trustworthy metrics.
+Overally the data is judged as WARN(ING). It means that the data requires documented treatment before it can support trustworthy metrics, i.e. should not be sent directly to a dashboard without deduplication, standardisation and validation
 
 The most important risk is duplication. Because `Notification` repeats, the dataset contains more rows than requests. A chart showing “number of service requests” would be misleading if it simply counted records.
 
@@ -149,6 +147,6 @@ The second major issue is geographic uncertainty. Missing values are represented
 
 ### In Conclusion
 
-The first profiling produced a useful 'map of uncertainty.' I learned that repeated rows were not necessarily duplicate requests; missingness was encoded as more than nulls; one field mixed categories, dates, identifiers and free text and coordinates could be present without being trustworthy.
+The profiling produced a useful 'map of uncertainty.' I learned that repeated rows were not necessarily duplicate requests; missingness was encoded as more than nulls; one field mixed categories, dates, identifiers and free text and coordinates could be present without being trustworthy.
 
-Most importantly, each discovery became a rule, a test or an open question. The profiling did not make the data look clean. It is made assumptions visible before going to the dashboard.
+Most importantly, each discovery became a rule, a test or another question to be answered. The profiling did not make the data look clean. It is made assumptions visible before going to the dashboard.
