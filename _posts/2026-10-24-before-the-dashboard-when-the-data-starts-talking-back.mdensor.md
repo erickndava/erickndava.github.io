@@ -13,7 +13,7 @@ tags:
 description: "Profiling 5.3 million City of Cape Town service-request records."  
 draft: false  
 ---  
-| <img src="/images/SR_Layer_Status.PNG" alt="REST Layer Status"/> 
+| <img src="/images/SR_Layer_Status.png" alt="REST Layer Status"/> 
 |:--:|
 | *A Status Check on CoCT SR Layer* |
 
@@ -114,7 +114,7 @@ Every rule had to have an ID, the rule itself, its status and the setting contro
 
 A Rulebook extract dealing with the handling of Suburb data.
 
-| <img src="/images/rulebook_extract_suburbs.PNG" alt="Rulebook Extract on Suburbs"/> 
+| <img src="/images/rulebook_extract_suburbs.png" alt="Rulebook Extract on Suburbs"/> 
 |:--:|
 | *Rulebook Extract* |
 
